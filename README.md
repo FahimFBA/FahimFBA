@@ -19,7 +19,7 @@ Let me introduce myself  :blush: :blush: :blush:
 - :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
 :star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/fahimbinamin) <br>
+:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
 :star: [Dimik OJ](https://dimikoj.com/) <br>
