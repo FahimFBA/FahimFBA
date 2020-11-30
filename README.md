@@ -1,8 +1,11 @@
-### Hi there 👋
+<h1 align="">Hi 👋 , I'm Md. Fahim Bin Amin.</h1> 
+<h3>Also known as "FBA" to other people.</h3>
 
+### Stats about me in Github:
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=fahimfba&count_private=true&show_icons=true&layout=default)
 
-Let me introduce myself  :blush: :blush: :blush:
+Let me introduce myself  :blush: 
 
 - 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
 - :diamond_shape_with_a_dot_inside: I have learnt [C](https://devdocs.io/c/), [C++](https://devdocs.io/cpp/), [Java](https://www.oracle.com/topics/technologies/newtojava/programming-center.html#Java_Basics), [JavaScript](https://www.javascript.com/), [Python](https://www.python.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS). I used some of them in solving problems in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature.) As I haven't practiced many of them for a pretty long time, I have already forgotten almost 4 of them. :disappointed: However, I'm trying to make myself skilled in C, Java and Python now. :computer:
