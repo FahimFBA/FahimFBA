@@ -37,7 +37,12 @@ Let me introduce myself  :blush:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fahimfba/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA"></a>
+<a><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA"></a>
+</p>
+
+
+<p align="center">
+<a href="https://www.facebook.com/iptu.fba/"><img src="https://img.shields.io/badge/facebook-Follow%20me-informational"/></a>
 </p>
 
 
