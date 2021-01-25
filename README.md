@@ -37,14 +37,13 @@ Let me introduce myself  :blush:
 </p>
 
 <p align="center">
-<a><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA"></a>
+<a href="https://twitter.com/Fahim_FBA"><img src="https://img.shields.io/badge/Twitter-Follow%20me-important"/></a>
 </p>
 
 
 <p align="center">
 <a href="https://www.facebook.com/iptu.fba/"><img src="https://img.shields.io/badge/facebook-Follow%20me-informational"/></a>
 </p>
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
