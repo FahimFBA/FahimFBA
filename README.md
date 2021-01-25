@@ -1,12 +1,8 @@
 <h1 align="">Hi 👋 , I'm Md. Fahim Bin Amin.</h1> 
 <h3>Also known as "FBA" to other people.</h3>
 
-### 🔧 Stats of me in Github:
+###  🔧 Stats of me in Github:
 
-
-
-
- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=FahimFBA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&theme=radical&layout=compact" height="300" width="350"/>
