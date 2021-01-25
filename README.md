@@ -25,8 +25,24 @@ Let me introduce myself  :blush:
         :beginner: Leadership <br>
         :beginner: Strategy <br>
 
-- 📫 <b>How to reach me:</b> <br>
-[Facebook](https://www.facebook.com/iptu.fba/), [Twitter](https://twitter.com/Fahim_FBA), [Reddit](https://www.reddit.com/user/IntelligentArt5), [MyAnimeList](https://myanimelist.net/profile/FBA), [LinkedIn](https://www.linkedin.com/in/fahimfba/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center"> How to reach me: 📫 </h3>
+<br />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fahimfba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fahimfba/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA"></a>
+</p>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 - :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
 :star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
