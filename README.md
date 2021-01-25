@@ -4,7 +4,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
   </a>
   <a href="https://github.com/FahimFBA" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat" alt="imamuddinwp" />
+    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
   </a>
 
 ###  🔧 Stats of me in Github:
