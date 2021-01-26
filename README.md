@@ -21,7 +21,6 @@
 </div>
 
 
-[![Md. Fahim Bin Amin's wakatime stats after 26 January 2021](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Let me introduce myself  :blush: 
@@ -72,3 +71,7 @@ Let me introduce myself  :blush:
 :star: [LightOJ](http://lightoj.com/) <br>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 <i>Many more are coming soon...<i> :clap:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Md. Fahim Bin Amin's wakatime stats after 26 January 2021](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA)](https://github.com/anuraghazra/github-readme-stats)
