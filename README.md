@@ -74,4 +74,4 @@ Let me introduce myself  :blush:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Md. Fahim Bin Amin's wakatime stats after 26 January 2021](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA](https://github.com/anuraghazra/github-readme-stats)
