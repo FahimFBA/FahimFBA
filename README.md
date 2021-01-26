@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=FahimFBA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&theme=radical&layout=compact" height="300" width="350"/>
 </div>
+[![Md. Fahim Bin Amin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Let me introduce myself  :blush: 
 
