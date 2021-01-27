@@ -73,5 +73,5 @@ Let me introduce myself  :blush:
 <i>Many more are coming soon...<i> :clap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA)](https://github.com/anuraghazra/github-readme-stats)
+
 
