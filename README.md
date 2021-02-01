@@ -9,11 +9,18 @@
   </h3>
   
 
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=gruvbox"/>
+  </a>
+</p>
+</details>
 
-
-
-
-###  🔧 Stats of me in Github:
+<details align="center">
+<summary>🔧 Stats of me in Github: </summary>
+ 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=FahimFBA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
@@ -21,7 +28,7 @@
 </div>
 
 
-
+</details>
 
 Let me introduce myself  :blush: 
 
