@@ -11,11 +11,11 @@
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=FahimFBA&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&layout=compact&theme=radical" width="350" height="250" ></a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=gruvbox"/>
+  </a>
+</p>
 </details>
 
 <details align="center">
@@ -23,8 +23,9 @@
  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=FahimFBA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&theme=radical&layout=compact" height="300" width="350"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&theme=radical" width="350" height="250" ></a>
+
 </div>
 
 
