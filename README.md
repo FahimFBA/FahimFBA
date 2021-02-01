@@ -60,29 +60,12 @@ Let me introduce myself  :blush:
 
 
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
 
 
 
 
 
-<h3 align="center"> How to reach me: 📫 </h3>
-<br />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/fahimfba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/Fahim_FBA"><img src="https://img.shields.io/badge/Twitter-Follow%20me-important"/></a>
-</p>
-
-
-<p align="center">
-<a href="https://www.facebook.com/iptu.fba/"><img src="https://img.shields.io/badge/facebook-Follow%20me-informational"/></a>
-</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -105,6 +88,6 @@ Let me introduce myself  :blush:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
