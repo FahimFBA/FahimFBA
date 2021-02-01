@@ -38,6 +38,36 @@ Let me introduce myself  :blush:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<div align="center">
+  
+
+
+  
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ 
+
+
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+
+
+
+
+</div>
+
+
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
+
+
+
+
+
 <h3 align="center"> How to reach me: 📫 </h3>
 <br />
 
@@ -74,4 +104,7 @@ Let me introduce myself  :blush:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
 
