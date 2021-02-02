@@ -45,11 +45,8 @@ Let me introduce myself  :blush:
         :beginner: Strategy <br>
 
 ## Technologies and Languages
-<br> <br>
-<p align= "center">
-Some technologies and languages that I am capable of.
-	</p>
-	<br> <br>
+
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
