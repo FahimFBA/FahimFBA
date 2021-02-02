@@ -105,14 +105,13 @@ Technologies and Languages </h2>
 <h2 align="center">
 My current Workstation Spec </h2>
 
-<p align= "center">
+<div align="center">
 	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) <br> <br>
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 
-</p>
-
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
