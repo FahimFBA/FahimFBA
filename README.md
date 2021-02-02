@@ -97,7 +97,7 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more </h3>
+<h3> + many more! </h3>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,8 +107,12 @@ My current Workstation Spec </h2>
 
 <div align="center">
 	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) <br> <br>
+
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<br> <br>
+	
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+
 
 
 </div>
@@ -132,7 +136,7 @@ My current Workstation Spec </h2>
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA&" alt="FahimFBA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
 
 </div>
 
