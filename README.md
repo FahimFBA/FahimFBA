@@ -36,7 +36,7 @@
 Let me introduce myself  :blush: 
 
 - 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
-- :diamond_shape_with_a_dot_inside: I have learnt [C](https://devdocs.io/c/), [C++](https://devdocs.io/cpp/), [Java](https://www.oracle.com/topics/technologies/newtojava/programming-center.html#Java_Basics), [JavaScript](https://www.javascript.com/), [Python](https://www.python.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS). I used some of them in solving problems in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature.) As I haven't practiced many of them for a pretty long time, I have already forgotten almost 4 of them. :disappointed: However, I'm trying to make myself skilled in C, Java and Python now. :computer:
+
 - :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), playing video games, watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer: including their hardware components and so on. 
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
