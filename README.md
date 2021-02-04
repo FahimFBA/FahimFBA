@@ -178,3 +178,5 @@ My Current Workstation Specification </h2>
 <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
