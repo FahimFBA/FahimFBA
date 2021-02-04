@@ -179,6 +179,8 @@ My Current Workstation Specification </h2>
 </a>
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align = "center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Fahim Bin Amin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&v=2&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
