@@ -172,8 +172,10 @@ My Current Workstation Specification </h2>
 <i>Many more are coming soon...<i> :clap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align = "left">
 [![Fahim Bin Amin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&v=2&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
 
 
 <a href="https://github.com/FahimFBA/github-readme-twitter">
