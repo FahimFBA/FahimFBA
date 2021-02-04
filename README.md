@@ -172,15 +172,15 @@ My Current Workstation Specification </h2>
 <i>Many more are coming soon...<i> :clap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align= "center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-</p>
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align = "center">
-
 [![Fahim Bin Amin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&v=2&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align= "right">
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="right" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
 </p>
+
+
+
+
