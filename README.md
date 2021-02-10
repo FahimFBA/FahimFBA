@@ -170,6 +170,7 @@ My Current Workstation Specification </h2>
 :star: [LightOJ](http://lightoj.com/) <br>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 :star: [AMT](http://orac.amt.edu.au/)<br>
+:star: [UVa](http://onlinejudge.org/)<br>
 <i>Many more are coming soon...<i> :clap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
