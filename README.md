@@ -28,7 +28,7 @@
 	<br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&layout=compact&theme=radical" width="350" height="250" ></a>
 
-</div>
+</div> 
 </details>
 
 
