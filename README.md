@@ -12,9 +12,11 @@
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=gruvbox"/>
-  </a>
+  
+	  [![trophy](https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+   
+ 
 </p>
 </details>
 
