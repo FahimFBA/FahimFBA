@@ -8,15 +8,7 @@
   </a>
   </h3>
   
-<div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=FahimFBA)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-   
- 
-
-</div>
 
 
  
