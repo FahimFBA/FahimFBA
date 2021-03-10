@@ -8,18 +8,14 @@
   </a>
   </h3>
   
+<div align="center">
 
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  
-	  [![trophy](https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
    
  
-</p>
-</details>
 
+</div>
 
 
  
