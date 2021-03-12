@@ -127,9 +127,11 @@ My Current Workstation Specification </h2>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+<div align="center">
 
 
-- :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
 :star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
 :star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
@@ -146,7 +148,8 @@ My Current Workstation Specification </h2>
 :star: [UVa](http://onlinejudge.org/)<br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
 <i>Many more are coming soon...<i> :clap:
-
+	
+	</div>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
