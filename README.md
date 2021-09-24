@@ -1,16 +1,13 @@
-<h2 align="center"> Hi 👋 , I'm Md. Fahim Bin Amin <br/></h2> 
-<h3 align="center">Also known as "FBA" to other people. 
-  
-  </h3> 
-      
-               
-     
+<h2 align="center"> Hi, I'm Md. Fahim Bin Amin 👋<br/></h2> 
+<h3 align="center">Also known as "FBA" to other people.
+
+  </h3>
+
 <div align="center">
 
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Summary card](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1 repos per language](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
