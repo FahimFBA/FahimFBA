@@ -150,6 +150,7 @@ My Current Workstation Specification </h2>
 
 <div align="center">
 	
+  [![wakatime](https://wakatime.com/badge/user/bdd0b005-05a9-4013-9de4-831c305c8fd2.svg)](https://wakatime.com/@bdd0b005-05a9-4013-9de4-831c305c8fd2)
 
 ![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
 
