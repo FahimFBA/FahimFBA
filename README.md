@@ -165,5 +165,11 @@ My Current Workstation Specification </h2>
 
 </p>
 
-
+<details>
+<summary>Daily Dev Stats</summary>
+<br>
+<div align="center">
+<a href="https://app.daily.dev/FBA"><img src="https://api.daily.dev/devcards/f8913974e5bd4b66950b3075c0083002.png?r=xfi" width="400" alt="Md. Fahim Bin Amin's Dev Card"/></a>
+</div>
+</details>
 
