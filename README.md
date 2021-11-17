@@ -66,23 +66,8 @@ Technologies and Languages </h2>
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
 <h3> + many more! </h3>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-	
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
-	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
-
-</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
