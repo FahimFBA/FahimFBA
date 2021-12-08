@@ -126,7 +126,7 @@ Technologies and Languages </h2>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
 <i>Many more are coming soon...<i> :clap: </div> </details>
 	
-	</div>
+	
 ---
 
 ### Latest YouTube videos
