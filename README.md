@@ -1,15 +1,5 @@
 <h2 align="center"> Hi, I'm Md. Fahim Bin Amin 👋<br/></h2> 
-<h3 align="center">Also known as "FBA" to other people.
-
-  </h3>
-
-<div align="center">
-
-[![Summary card](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![1 repos per language](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
+<h3 align="center">Also known as "FBA" to other people.</h3>
 
 <h2 align="center">
 Technologies and Languages </h2>
@@ -60,52 +50,64 @@ Technologies and Languages </h2>
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) + many more!
 
-<h3> + many more! </h3>
+<img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-  
-
-
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
+<h2 align="center">Connect with me!</h2>
 
-
-<h2>Connect with me!</h2>
- 
+<div align="left">
+	
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+	
+</div>
 
+<p align="left">
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
+</p>
 
+<div align="left">
+	
+### Latest YouTube videos
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Awesome MarkDown! 😲😲😲](https://www.youtube.com/watch?v=K61BdvzEJPw)
+- [Wrapper Class in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 24&rpar;](https://www.youtube.com/watch?v=Y5ZH70xFaDY)
+- [Install the latest version of Java / JDK in any Linux Operating System 😎](https://www.youtube.com/watch?v=-XRg3QZsEms)
+- [Array Bounds, Resizing, and Copy in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 23&rpar;](https://www.youtube.com/watch?v=W-DbyMLHgrw)
+- [2D Array EXTENDED in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 22&rpar;](https://www.youtube.com/watch?v=KbvNArRpFMI)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+	
+</div>
 
+<h2 align="center">GitHub Stats</h2>
 
+<div align="left">
+
+[![Summary card](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1 repos per language](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FahimFBA&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+<h2 align="center">Wakatime Stats</h2>
+
+<div align="left">
+	
+[![wakatime](https://wakatime.com/badge/user/bdd0b005-05a9-4013-9de4-831c305c8fd2.svg)](https://wakatime.com/@bdd0b005-05a9-4013-9de4-831c305c8fd2)
+
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
 
 </div>
 
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 <details>
-	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+<summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+	
 <div align="center">
 
 
@@ -124,40 +126,6 @@ Technologies and Languages </h2>
 :star: [AMT](http://orac.amt.edu.au/)<br>
 :star: [UVa](http://onlinejudge.org/)<br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
-<i>Many more are coming soon...<i> :clap: </div> </details>
-	
-	
----
-
-### Latest YouTube videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Awesome MarkDown! 😲😲😲](https://www.youtube.com/watch?v=K61BdvzEJPw)
-- [Wrapper Class in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 24&rpar;](https://www.youtube.com/watch?v=Y5ZH70xFaDY)
-- [Install the latest version of Java / JDK in any Linux Operating System 😎](https://www.youtube.com/watch?v=-XRg3QZsEms)
-- [Array Bounds, Resizing, and Copy in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 23&rpar;](https://www.youtube.com/watch?v=W-DbyMLHgrw)
-- [2D Array EXTENDED in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 22&rpar;](https://www.youtube.com/watch?v=KbvNArRpFMI)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
----	
-
-<div align="center">
-	
-  [![wakatime](https://wakatime.com/badge/user/bdd0b005-05a9-4013-9de4-831c305c8fd2.svg)](https://wakatime.com/@bdd0b005-05a9-4013-9de4-831c305c8fd2)
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
+<i>Many more are coming soon...<i> :clap: 
+</div> 
+</details>
