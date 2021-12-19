@@ -94,15 +94,6 @@ Technologies and Languages </h2>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FahimFBA&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-<h2 align="center">Wakatime Stats</h2>
-
-<div align="center">
-	
-[![wakatime](https://wakatime.com/badge/user/bdd0b005-05a9-4013-9de4-831c305c8fd2.svg)](https://wakatime.com/@bdd0b005-05a9-4013-9de4-831c305c8fd2)
-
-<!-- ![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2) -->
-
-</div>
 
 ---
 <details>
