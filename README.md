@@ -72,11 +72,11 @@ Technologies and Languages </h2>
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Print any statement in Python 🐍 WITHOUT THE AUTOMATED NEW LINE ❌](https://www.youtube.com/watch?v=3CcL7eaqQBQ)
 - [Automount any partition in the startup in your Linux operating system 🐧](https://www.youtube.com/watch?v=0Hfde3Iy41E)
 - [Encapsulation in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 26&rpar;](https://www.youtube.com/watch?v=ILqIhs1VzXE)
 - [Access Modifier and Access Control List of Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 25&rpar;](https://www.youtube.com/watch?v=l5MdIlxIkxk)
 - [#Shorts #Python - A new series has just been LAUNCHED! 🔥](https://www.youtube.com/watch?v=e4D-ZoCUzJ4)
-- [Print any statement in Python 🐍](https://www.youtube.com/watch?v=rhZ4xnBQhN4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
