@@ -67,7 +67,7 @@
 :star: [AMT](http://orac.amt.edu.au/)<br>
 :star: [UVa](http://onlinejudge.org/)<br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
-<i>Many more are coming soon...<i> :clap: 
+<i>Many more are coming soon... <i> :clap: 
 </div> 
 </details>
 </p>
