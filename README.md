@@ -26,10 +26,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [🍾🥂 Announcement! HackerRank Linux Shell Playlist ▶️](https://www.youtube.com/watch?v=erctCn31DL8)
+- [Let&#39;s Echo - Linux Shell Practice &lpar; HackerRank &rpar;](https://www.youtube.com/watch?v=T2xT2qlKsvM)
 - [Install the Avro Keyboard in LINUX OS 🐧&lpar;Write Bangla in most of the Linux Distros&rpar;](https://www.youtube.com/watch?v=C8vnR1AY6sA)
 - [Inheritance in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 27&rpar;](https://www.youtube.com/watch?v=ZbbaivcsrPY)
 - [Print any statement in Python 🐍 WITHOUT THE AUTOMATED NEW LINE ❌](https://www.youtube.com/watch?v=3CcL7eaqQBQ)
-- [Automount any partition in the startup in your Linux operating system 🐧](https://www.youtube.com/watch?v=0Hfde3Iy41E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
