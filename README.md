@@ -26,7 +26,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Invoking Parent Class Constructor in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 30&rpar;](https://www.youtube.com/watch?v=i9Aska9bNyY)
+- [Invoking Parent Class Constructor in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 30&rpar;](https://www.youtube.com/watch?v=qSrHYXTz10o)
 - [Invoking Overriding Methods in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 29&rpar;](https://www.youtube.com/watch?v=z7JJjvY23Bs)
 - [Method Overriding in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 28&rpar;](https://www.youtube.com/watch?v=zyoS7XFiwJQ)
 - [Find the Area of Triangle in Python &lpar;বাংলাতে&rpar;](https://www.youtube.com/watch?v=Cl2SBjjqcbo)
