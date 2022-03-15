@@ -15,12 +15,6 @@
 </div>
  
 
-<p align="center">
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-</p>
-
 <div align="left">
 	
 ### Latest YouTube videos from the [Bengali channel](https://www.youtube.com/c/InnovationWithIphim)
