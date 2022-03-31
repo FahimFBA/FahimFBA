@@ -20,11 +20,11 @@
 ### Latest YouTube videos from the [Bengali channel](https://www.youtube.com/c/InnovationWithIphim)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Inheritance and Encapsulation in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 33&rpar;](https://www.youtube.com/watch?v=YyAXV-PNJ2w)
 - [Constructor Overloading in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 32&rpar;](https://www.youtube.com/watch?v=6kebgEHy_NU)
 - [Method Overloading in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 31&rpar;](https://www.youtube.com/watch?v=cixVbjubDJY)
 - [Invoking Parent Class Constructor in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 30&rpar;](https://www.youtube.com/watch?v=qSrHYXTz10o)
 - [Invoking Overriding Methods in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 29&rpar;](https://www.youtube.com/watch?v=z7JJjvY23Bs)
-- [Method Overriding in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 28&rpar;](https://www.youtube.com/watch?v=zyoS7XFiwJQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
