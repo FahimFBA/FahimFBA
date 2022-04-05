@@ -4,7 +4,7 @@
 
 <!-- <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
 <p align="center">
- ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+ ⚡ Microsoft Research Investigation Contributor to OSS || Author👨‍💻 @freeCodeCamp || Love to work in Python🐍 C, C++, Java☕, Linux 🐧, Windows 🪟
  
 <h2 align="center">Connect with me!</h2>
 
