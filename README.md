@@ -6,7 +6,7 @@ Basically I like to work with Python, Java, C, C++, Markdown and so on. My prefe
 
 I also like to teach others regarding programming and technical stuff. I have two YouTube Brand channels. [In one channel, I publish English content](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q); [in the other channel, I publish Bengali content](https://www.youtube.com/c/InnovationWithIphim).
 
-I also write articles frequently in various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platform. 😊
+I also write articles frequently in various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platforms. 😊
 
 
 
