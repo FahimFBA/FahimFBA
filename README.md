@@ -1,9 +1,15 @@
 # Hello, everyone! <img src="./img/wave.gif" width="35px">
 
-<!-- <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
-<p align="center">
- ⚡ Microsoft Research Investigation Contributor to OSS || Author👨‍💻 @freeCodeCamp || Love to work in Python🐍 C, C++, Java☕, Linux 🐧, Windows 🪟
- 
+It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}. I am also working at [draft.dev](https://draft.dev/) as a technical content writer.
+
+Basically I like to work with Python, Java, C, C++, Markdown and so on. My preferable operarting system is Linux and Windows. *⚡Fun fact: I have experimented with more than 65 Linux distros till now. 😎*
+
+I also like to teach others regarding programming and technical stuff. I have two YouTube Brand channels. [In one channel, I publish English content](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q); [in the other channel, I publish Bengali content](https://www.youtube.com/c/InnovationWithIphim).
+
+I also write articles frequently in various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platform. 😊
+
+
+
 <h2 align="center">Connect with me!</h2>
 
 <div align="center">
