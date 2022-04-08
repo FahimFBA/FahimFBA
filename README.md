@@ -1,6 +1,4 @@
-<h2 align="center"> Hi, I'm Md. Fahim Bin Amin 👋<br/></h2> 
-<h3 align="center">Also known as "FBA" to other people.</h3>
-
+# Hello, everyone! <img src="./img/wave.gif" width="35px">
 
 <!-- <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
 <p align="center">
