@@ -24,7 +24,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 <div align="left">
 	
-### Latest YouTube videos from the [Bengali channel](https://www.youtube.com/c/InnovationWithIphim)
+### Latest YouTube videos from the [English channel](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Inheritance and Encapsulation - Codes in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 34&rpar;](https://www.youtube.com/watch?v=Ab0IZLDhKYY)
