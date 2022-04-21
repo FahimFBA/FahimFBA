@@ -27,11 +27,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ### Latest YouTube videos from the [English channel](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [LeetCode Two Sum Solution Explained](https://www.youtube.com/watch?v=1g1jTkAFX5M)
 - [LeetCode Add Two Integers Solution Explained](https://www.youtube.com/watch?v=MBubcYRQMeE)
 - [Pattern Printing Using Python 🐍 Episode 8](https://www.youtube.com/watch?v=J5OyEpe18fE)
 - [Pattern Printing Using Python 🐍 Episode 9](https://www.youtube.com/watch?v=0nqenoaIq8s)
 - [Pattern Printing Using Python 🐍 Episode 7](https://www.youtube.com/watch?v=TbXOYqZkoYk)
-- [Install the C/C++ Compiler on Windows 10 / Windows 11](https://www.youtube.com/watch?v=_lBJCAVK50g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
