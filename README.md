@@ -25,7 +25,6 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
-## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 
 <!-- HASHNODE_BLOG:END -->
