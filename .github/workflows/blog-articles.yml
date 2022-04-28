@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: 'FahimFBA' # Hashnode Username
           COUNT: 10 # MAX Visisble
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
