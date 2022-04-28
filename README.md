@@ -35,11 +35,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ### Latest YouTube videos from the [English channel](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to Create Backup of Hashnode Blog in Your GitHub Repository](https://www.youtube.com/watch?v=a2PZPR9ul6c)
 - [LeetCode Contains Duplicate &lpar;217&rpar; Solution Explained](https://www.youtube.com/watch?v=8n-PxFz2Ln0)
 - [LeetCode Two Sum Solution Explained](https://www.youtube.com/watch?v=1g1jTkAFX5M)
 - [LeetCode Add Two Integers Solution Explained](https://www.youtube.com/watch?v=MBubcYRQMeE)
 - [Pattern Printing Using Python 🐍 Episode 8](https://www.youtube.com/watch?v=J5OyEpe18fE)
-- [Pattern Printing Using Python 🐍 Episode 9](https://www.youtube.com/watch?v=0nqenoaIq8s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
