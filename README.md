@@ -75,3 +75,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+## 🖥⌨ Most used Languages 
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
