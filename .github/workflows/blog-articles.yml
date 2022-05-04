@@ -19,6 +19,5 @@ jobs:
           USERNAME: 'FahimFBA' # Hashnode Username
           BLOG_URL: 'https://fahimbinamin.hashnode.dev/' # My blog URL as I am facing some issue with the automatically generated blog link
           COUNT: 10 # MAX Visisble
-          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
