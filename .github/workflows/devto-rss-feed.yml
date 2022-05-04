@@ -14,4 +14,3 @@ jobs:
         with:
           comment_tag_name: "DEVTO-BLOG-LIST"
           feed_list: "https://dev.to/feed/fahimfba"
-          STYLE: "blog-left"
