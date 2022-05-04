@@ -83,5 +83,5 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 ## ⌨🧑‍💻 Dev Card 
 
-<a href="https://app.daily.dev/FBA"><img src="https://api.daily.dev/devcards/f8913974e5bd4b66950b3075c0083002.png?r=icg" width="200" alt="Md. Fahim Bin Amin's Dev Card"/></a>
+<a href="https://app.daily.dev/FBA"><img src="https://api.daily.dev/devcards/f8913974e5bd4b66950b3075c0083002.png?r=icg" width="350" alt="Md. Fahim Bin Amin's Dev Card"/></a>
  
