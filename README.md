@@ -35,12 +35,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://fahimbinamin.hashnode.dev//make-your-linux-os-ready-for-github-gitlab-and-bitbucket-altogether" title="Make your Linux OS ready for GitHub, GitLab & BitBucket altogether"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635090845914/P2n1NZzzW.jpeg" alt="Make your Linux OS ready for GitHub, GitLab & BitBucket altogether" width="250px" align="left" /></a>
-<a href="https://fahimbinamin.hashnode.dev//make-your-linux-os-ready-for-github-gitlab-and-bitbucket-altogether" title="Make your Linux OS ready for GitHub, GitLab & BitBucket altogether"><strong>Make your Linux OS ready for GitHub, GitLab & BitBucket altogether</strong></a>
-<div><strong>24 Oct 2021</strong> | <strong>Updated: 24 Oct 2021</strong></div>
-<br/> Backstory
-After setting up my computer, the first thing I always do is set up that machine for my GitHub, GitLab and BitBucket accounts altogether using unique SSH keys for all of them. However, the mentioned task is very simple for me in the Windows... </p> <br/> <br/>
+- [Make your Linux OS ready for GitHub, GitLab & BitBucket altogether](https://fahimbinamin.hashnode.dev//make-your-linux-os-ready-for-github-gitlab-and-bitbucket-altogether)
 <!-- HASHNODE_BLOG:END -->
  
 
