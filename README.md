@@ -60,8 +60,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
-
-
+- [Inheritance and Encapsulation - Codes in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 34&rpar;](https://www.youtube.com/watch?v=Ab0IZLDhKYY)
+- [Inheritance and Encapsulation in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 33&rpar;](https://www.youtube.com/watch?v=YyAXV-PNJ2w)
+- [Constructor Overloading in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 32&rpar;](https://www.youtube.com/watch?v=6kebgEHy_NU)
+- [Method Overloading in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 31&rpar;](https://www.youtube.com/watch?v=cixVbjubDJY)
+- [Invoking Parent Class Constructor in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 30&rpar;](https://www.youtube.com/watch?v=qSrHYXTz10o)
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:END -->
 	
 </div>
