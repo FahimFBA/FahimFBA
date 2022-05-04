@@ -23,6 +23,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 
 
+## <a href="https://dev.to/FBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> 
+ <!-- DEVTO-BLOG-LIST:START -->
+ 
+ <!-- DEVTO-BLOG-LIST:END -->
+
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
