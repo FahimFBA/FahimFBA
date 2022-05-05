@@ -22,6 +22,10 @@ I also write articles frequently in various well-known platforms. Among those, [
 </div>
 
 
+## <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="https://cdn.cdnlogo.com/logos/f/4/freecodecamp.svg" title="freeCodeCamp" alt="freeCodeCamp" width="100"/></a> Recent Articles on freeCodeCamp
+
+
+
 
 ## <a href="https://dev.to/FBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to 
  <!-- DEVTO-BLOG-LIST:START -->
