@@ -82,11 +82,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 </div>
 
 
-## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+<!-- ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 ## 🖥⌨ Most used Languages 
 
