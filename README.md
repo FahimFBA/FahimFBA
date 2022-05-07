@@ -82,7 +82,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 </div>
 
 
-<!-- ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
@@ -92,7 +92,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 5. 🗣 Commented on [#24](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/issues/24) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
 <!--END_SECTION:activity-->
 
-<!--END_SECTION:activity--> -->
+
 
 ## 🖥⌨ Most used Languages 
 
