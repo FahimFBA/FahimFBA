@@ -85,11 +85,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4081](https://github.com/tauri-apps/tauri/issues/4081) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. ❌ Closed PR [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-3. 🗣 Commented on [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-4. 💪 Opened PR [#692](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/692) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-5. ❌ Closed PR [#24](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/24) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+1. 💪 Opened PR [#26](https://github.com/Kavex/GameDev-Resources/pull/26) in [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+2. ❗️ Opened issue [#4081](https://github.com/tauri-apps/tauri/issues/4081) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. ❌ Closed PR [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+4. 🗣 Commented on [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+5. 💪 Opened PR [#692](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/692) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 <!--END_SECTION:activity-->
 
 
