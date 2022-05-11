@@ -85,11 +85,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12344](https://github.com/foundation/foundation-sites/issues/12344) in [foundation/foundation-sites](https://github.com/foundation/foundation-sites)
-2. ❗️ Closed issue [#12344](https://github.com/foundation/foundation-sites/issues/12344) in [foundation/foundation-sites](https://github.com/foundation/foundation-sites)
-3. 💪 Opened PR [#26](https://github.com/Kavex/GameDev-Resources/pull/26) in [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
-4. ❗️ Opened issue [#4081](https://github.com/tauri-apps/tauri/issues/4081) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. ❌ Closed PR [#691](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/691) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+1. ❌ Closed PR [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+2. 🗣 Commented on [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/issues/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+3. ❌ Closed PR [#22](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/22) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+4. 🗣 Commented on [#22](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/issues/22) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+5. ❌ Closed PR [#23](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/23) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
 <!--END_SECTION:activity-->
 
 
