@@ -90,11 +90,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3965](https://github.com/EddieHubCommunity/support/issues/3965) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#3966](https://github.com/EddieHubCommunity/support/issues/3966) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#3960](https://github.com/EddieHubCommunity/support/issues/3960) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#4141](https://github.com/tauri-apps/tauri/pull/4141) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. 🗣 Commented on [#619](https://github.com/BeccaLyria/discord-documentation/issues/619) in [BeccaLyria/discord-documentation](https://github.com/BeccaLyria/discord-documentation)
+1. 🗣 Commented on [#3940](https://github.com/EddieHubCommunity/support/issues/3940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#3965](https://github.com/EddieHubCommunity/support/issues/3965) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#3966](https://github.com/EddieHubCommunity/support/issues/3966) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#3960](https://github.com/EddieHubCommunity/support/issues/3960) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 💪 Opened PR [#4141](https://github.com/tauri-apps/tauri/pull/4141) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
 
 
