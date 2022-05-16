@@ -29,11 +29,12 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="/img/fcc_primary_small.jpg" title="freeCodeCamp" alt="freeCodeCamp" width="30"/></a> Recent Articles on freeCodeCamp
 
 <!-- FREECODECAMP:START -->
+ - [How to Backup Your Hashnode Articles to GitHub
+](https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/) 
  - [How to Fix Google Chrome Black Screen on Linux OS (Wayland)](https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/)
  - [How to Fix the "Item Not Found" Windows Error When Deleting a File or Folder](https://www.freecodecamp.org/news/how-to-solve-item-not-found-windows-error-deleting-file-folder/)
  - [Windows Sandbox Tutorial – How to Enable Sandbox On Windows](https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/)
  - [How to Remove the Start Text from PowerShell](https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/)
- - [How to Execute and Run Java Code from the Terminal](https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/)
  
  <!-- FREECODECAMP:END -->
 
