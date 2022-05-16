@@ -87,11 +87,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4141](https://github.com/tauri-apps/tauri/pull/4141) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 🗣 Commented on [#619](https://github.com/BeccaLyria/discord-documentation/issues/619) in [BeccaLyria/discord-documentation](https://github.com/BeccaLyria/discord-documentation)
-3. ❌ Closed PR [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
-4. 🗣 Commented on [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/issues/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
-5. ❌ Closed PR [#22](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/22) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+1. ❗️ Opened issue [#3960](https://github.com/EddieHubCommunity/support/issues/3960) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#4141](https://github.com/tauri-apps/tauri/pull/4141) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. 🗣 Commented on [#619](https://github.com/BeccaLyria/discord-documentation/issues/619) in [BeccaLyria/discord-documentation](https://github.com/BeccaLyria/discord-documentation)
+4. ❌ Closed PR [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/pull/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
+5. 🗣 Commented on [#21](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/issues/21) in [FahimFBA/RainyRoof_Restaurant_Website](https://github.com/FahimFBA/RainyRoof_Restaurant_Website)
 <!--END_SECTION:activity-->
 
 
