@@ -52,6 +52,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [How to Get Clear Audio in Audacity](https://fahimbinamin.hashnode.dev//how-to-get-clear-audio-in-audacity)
 - [Make your Linux OS ready for GitHub, GitLab & BitBucket altogether](https://fahimbinamin.hashnode.dev//make-your-linux-os-ready-for-github-gitlab-and-bitbucket-altogether)
 <!-- HASHNODE_BLOG:END -->
  
