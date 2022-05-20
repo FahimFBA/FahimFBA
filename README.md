@@ -111,6 +111,8 @@ I also write articles frequently in various well-known platforms. Among those, [
  
 <br>
 
+## 👴 Quote
+
 <p align="center">
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"/>
 </p>
