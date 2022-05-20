@@ -91,11 +91,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#801](https://github.com/0xAX/linux-insides/issues/801) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
-2. ❗️ Closed issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
-3. 🗣 Commented on [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
-4. ❗️ Opened issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
-5. 🗣 Commented on [#3940](https://github.com/EddieHubCommunity/support/issues/3940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#6](https://github.com/Maclinz/JS_CSS_PortfolioProject/issues/6) in [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject)
+2. ❗️ Opened issue [#801](https://github.com/0xAX/linux-insides/issues/801) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+3. ❗️ Closed issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
+4. 🗣 Commented on [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
+5. ❗️ Opened issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
 <!--END_SECTION:activity-->
 
 
