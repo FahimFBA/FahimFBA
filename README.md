@@ -91,11 +91,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1231](https://github.com/rocksdanister/lively/pull/1231) in [rocksdanister/lively](https://github.com/rocksdanister/lively)
-2. ❗️ Opened issue [#6](https://github.com/Maclinz/JS_CSS_PortfolioProject/issues/6) in [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject)
-3. ❗️ Opened issue [#801](https://github.com/0xAX/linux-insides/issues/801) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
-4. ❗️ Closed issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
-5. 🗣 Commented on [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
+1. ❗️ Opened issue [#62](https://github.com/ansh/bionic-reading/issues/62) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+2. 💪 Opened PR [#1231](https://github.com/rocksdanister/lively/pull/1231) in [rocksdanister/lively](https://github.com/rocksdanister/lively)
+3. ❗️ Opened issue [#6](https://github.com/Maclinz/JS_CSS_PortfolioProject/issues/6) in [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject)
+4. ❗️ Opened issue [#801](https://github.com/0xAX/linux-insides/issues/801) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+5. ❗️ Closed issue [#311](https://github.com/rails-oceania/roro/issues/311) in [rails-oceania/roro](https://github.com/rails-oceania/roro)
 <!--END_SECTION:activity-->
 
 
