@@ -42,11 +42,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 ## <a href="https://dev.to/FBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to 
  <!-- DEVTO-BLOG-LIST:START -->
+- [Some GoogleDrive Shortcuts That Might Help You!](https://dev.to/fahimfba/some-googledrive-shortcuts-that-might-help-you-m5i)
 - [A new visual change in GitHub 🙄](https://dev.to/fahimfba/a-new-visual-change-on-github-1mm8)
 - [Awesome Markdown 🎉](https://dev.to/fahimfba/awesome-markdown-362)
 - [New Version of Git 🥳](https://dev.to/fahimfba/new-version-of-git-1fic)
 - [Skip any value in scanf&lpar;&rpar; function in C programming language](https://dev.to/fahimfba/skip-any-value-in-scanf-function-in-c-programming-language-38jn)
-- [Package Manager for Windows](https://dev.to/fahimfba/package-manager-for-windows-6l7)
 <!-- DEVTO-BLOG-LIST:END -->
 
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
