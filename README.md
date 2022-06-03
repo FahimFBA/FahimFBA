@@ -94,11 +94,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-2. 💪 Opened PR [#104](https://github.com/ansh/bionic-reading/pull/104) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-3. ❗️ Opened issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-4. ❗️ Opened issue [#68](https://github.com/ansh/bionic-reading/issues/68) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-5. 🗣 Commented on [#67](https://github.com/ansh/bionic-reading/issues/67) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+1. ❗️ Opened issue [#10](https://github.com/AandersonL/bazzar/issues/10) in [AandersonL/bazzar](https://github.com/AandersonL/bazzar)
+2. ❗️ Opened issue [#54](https://github.com/mentebinaria/retoolkit/issues/54) in [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit)
+3. ❗️ Closed issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+4. 💪 Opened PR [#104](https://github.com/ansh/bionic-reading/pull/104) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+5. ❗️ Opened issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
 <!--END_SECTION:activity-->
 
 
