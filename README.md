@@ -94,11 +94,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/AandersonL/bazzar/issues/10) in [AandersonL/bazzar](https://github.com/AandersonL/bazzar)
-2. ❗️ Opened issue [#54](https://github.com/mentebinaria/retoolkit/issues/54) in [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit)
-3. ❗️ Closed issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-4. 💪 Opened PR [#104](https://github.com/ansh/bionic-reading/pull/104) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-5. ❗️ Opened issue [#103](https://github.com/ansh/bionic-reading/issues/103) in [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+1. ❌ Closed PR [#6](https://github.com/FahimFBA/FahimFBA/pull/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+2. 🗣 Commented on [#6](https://github.com/FahimFBA/FahimFBA/issues/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+3. ❗️ Closed issue [#4](https://github.com/FahimFBA/FahimFBA/issues/4) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+4. 🗣 Commented on [#4](https://github.com/FahimFBA/FahimFBA/issues/4) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+5. 🗣 Commented on [#5](https://github.com/FahimFBA/FahimFBA/issues/5) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
 <!--END_SECTION:activity-->
 
 
