@@ -52,7 +52,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 - [Skip any value in scanf&lpar;&rpar; function in C programming language](https://dev.to/fahimfba/skip-any-value-in-scanf-function-in-c-programming-language-38jn)
 <!-- DEVTO-BLOG-LIST:END -->
 
-## <a href="https://fahimbinamin.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
+## <a href="https://fahimbinamin.hashnode.dev/"><img src="/img/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
 - [How to Get Clear Audio in Audacity](https://fahimbinamin.hashnode.dev//how-to-get-clear-audio-in-audacity)
