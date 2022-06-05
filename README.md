@@ -43,7 +43,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 
 
-## <a href="https://dev.to/FBA"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to 
+## <a href="https://dev.to/FBA"><img src="/img/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to 
  <!-- DEVTO-BLOG-LIST:START -->
 - [Some GoogleDrive Shortcuts That Might Help You!](https://dev.to/fahimfba/some-googledrive-shortcuts-that-might-help-you-m5i)
 - [A new visual change in GitHub 🙄](https://dev.to/fahimfba/a-new-visual-change-on-github-1mm8)
