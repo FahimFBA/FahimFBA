@@ -12,7 +12,7 @@ Basically I like to work with Python, Java, C, C++, Markdown and so on. My prefe
 However, after all of this, I came to a realization, and you can take a note from my experience as well.
 > Use whatever you like, any Operating System you like, any Linux distro you like which also works perfectly for you. Avoid wasting time in unnecessary continuous distro hopping. Distro war has become a common phenomenon and that is basically destroying the original purpose of the Linux OS.
 
-I forgot to mention that I also love **Windows 11** so much, and currently Windows 11 is my only OS on both my workstation and laptop *(with [WSL](https://docs.microsoft.com/en-us/windows/wsl/) obviously!)*. 😊 
+I forgot to mention that I also love **Windows 11** so much, and currently Windows 11 and **ArcoLinux** are my only OSes on both my workstation and laptop *(with [WSL](https://docs.microsoft.com/en-us/windows/wsl/) in Windows 11 obviously!)*. 😊 
 
 I also like to teach others about programming and technical stuff. I have two YouTube Brand channels. [In one channel, I publish English content](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q); [in the other channel, I publish Bengali content](https://www.youtube.com/c/InnovationWithIphim).
 
