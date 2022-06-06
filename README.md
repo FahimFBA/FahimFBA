@@ -65,11 +65,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How To Customize Your GitHub Profile To Stand Out Among Others 👌](https://www.youtube.com/watch?v=nT_-L32blOs)
 - [How to Print Without a Newline in Python 🐍](https://www.youtube.com/watch?v=mVEFgZo_ez4)
 - [How to Install Node.js on Windows 11 and Windows 10](https://www.youtube.com/watch?v=951aEbJwqS8)
 - [How To Install ✨ Pycharm and ✨ Python on Windows 11 and Windows 10 in 2022](https://www.youtube.com/watch?v=sra47m2Vm30)
 - [How to add Git Bash in Windows Terminal in 2022 💣](https://www.youtube.com/watch?v=eI8y4gKUEqE)
-- [#Shorts #GItHub Tried to polish my @github profile #readme a little bit again.](https://www.youtube.com/watch?v=o_kpSz2JqaQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
