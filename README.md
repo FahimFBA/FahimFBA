@@ -94,11 +94,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/FahimFBA/FahimFBA/pull/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-2. 🗣 Commented on [#6](https://github.com/FahimFBA/FahimFBA/issues/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-3. ❗️ Closed issue [#4](https://github.com/FahimFBA/FahimFBA/issues/4) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-4. 🗣 Commented on [#4](https://github.com/FahimFBA/FahimFBA/issues/4) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-5. 🗣 Commented on [#5](https://github.com/FahimFBA/FahimFBA/issues/5) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+1. 🗣 Commented on [#6](https://github.com/KendallDoesCoding/quiz/issues/6) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
+2. 🗣 Commented on [#7](https://github.com/KendallDoesCoding/languages-around-the-world/issues/7) in [KendallDoesCoding/languages-around-the-world](https://github.com/KendallDoesCoding/languages-around-the-world)
+3. 🗣 Commented on [#14](https://github.com/TechStudent11/heroku-portfolio/issues/14) in [TechStudent11/heroku-portfolio](https://github.com/TechStudent11/heroku-portfolio)
+4. ❌ Closed PR [#6](https://github.com/FahimFBA/FahimFBA/pull/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+5. 🗣 Commented on [#6](https://github.com/FahimFBA/FahimFBA/issues/6) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
 <!--END_SECTION:activity-->
 
 
