@@ -94,11 +94,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/KendallDoesCoding/languages-around-the-world/pull/14) in [KendallDoesCoding/languages-around-the-world](https://github.com/KendallDoesCoding/languages-around-the-world)
-2. 🗣 Commented on [#6](https://github.com/KendallDoesCoding/quiz/issues/6) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
-3. 💪 Opened PR [#8](https://github.com/KendallDoesCoding/quiz/pull/8) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
-4. 💪 Opened PR [#11](https://github.com/AandersonL/bazzar/pull/11) in [AandersonL/bazzar](https://github.com/AandersonL/bazzar)
-5. 🗣 Commented on [#6](https://github.com/KendallDoesCoding/quiz/issues/6) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
+1. 💪 Opened PR [#16](https://github.com/TechStudent11/heroku-portfolio/pull/16) in [TechStudent11/heroku-portfolio](https://github.com/TechStudent11/heroku-portfolio)
+2. 💪 Opened PR [#14](https://github.com/KendallDoesCoding/languages-around-the-world/pull/14) in [KendallDoesCoding/languages-around-the-world](https://github.com/KendallDoesCoding/languages-around-the-world)
+3. 🗣 Commented on [#6](https://github.com/KendallDoesCoding/quiz/issues/6) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
+4. 💪 Opened PR [#8](https://github.com/KendallDoesCoding/quiz/pull/8) in [KendallDoesCoding/quiz](https://github.com/KendallDoesCoding/quiz)
+5. 💪 Opened PR [#11](https://github.com/AandersonL/bazzar/pull/11) in [AandersonL/bazzar](https://github.com/AandersonL/bazzar)
 <!--END_SECTION:activity-->
 
 
