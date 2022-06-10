@@ -94,11 +94,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/issues/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
-2. 🎉 Merged PR [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/pull/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
-3. ❗️ Opened issue [#27](https://github.com/PlusHaze/TrayNotification/issues/27) in [PlusHaze/TrayNotification](https://github.com/PlusHaze/TrayNotification)
-4. 💪 Opened PR [#16](https://github.com/TechStudent11/heroku-portfolio/pull/16) in [TechStudent11/heroku-portfolio](https://github.com/TechStudent11/heroku-portfolio)
-5. 💪 Opened PR [#14](https://github.com/KendallDoesCoding/languages-around-the-world/pull/14) in [KendallDoesCoding/languages-around-the-world](https://github.com/KendallDoesCoding/languages-around-the-world)
+1. ❗️ Opened issue [#6](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/6) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+2. 🗣 Commented on [#35](https://github.com/vinceliuice/ChromeOS-kde/issues/35) in [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)
+3. 🗣 Commented on [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/issues/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
+4. 🎉 Merged PR [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/pull/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
+5. ❗️ Opened issue [#27](https://github.com/PlusHaze/TrayNotification/issues/27) in [PlusHaze/TrayNotification](https://github.com/PlusHaze/TrayNotification)
 <!--END_SECTION:activity-->
 
 
