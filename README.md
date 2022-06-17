@@ -91,11 +91,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/6) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
-2. 🗣 Commented on [#35](https://github.com/vinceliuice/ChromeOS-kde/issues/35) in [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)
-3. 🗣 Commented on [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/issues/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
-4. 🎉 Merged PR [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/pull/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
-5. ❗️ Opened issue [#27](https://github.com/PlusHaze/TrayNotification/issues/27) in [PlusHaze/TrayNotification](https://github.com/PlusHaze/TrayNotification)
+1. 💪 Opened PR [#1](https://github.com/fhsinchy/fhsinchy/pull/1) in [fhsinchy/fhsinchy](https://github.com/fhsinchy/fhsinchy)
+2. ❗️ Opened issue [#6](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/6) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+3. 🗣 Commented on [#35](https://github.com/vinceliuice/ChromeOS-kde/issues/35) in [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)
+4. 🗣 Commented on [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/issues/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
+5. 🎉 Merged PR [#1](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript/pull/1) in [FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript](https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
 <!--END_SECTION:activity-->
 
 
