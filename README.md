@@ -7,14 +7,12 @@
 It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first and the only student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}. I am also working at [draft.dev](https://draft.dev/) as a technical content writer.
 
 Basically I like to work with Python, Java, C, C++, Markdown and so on. My preferable operarting system is Linux and Windows. 
-*⚡Fun fact: I have experimented with more than 91 Linux distros till now. 😎 My favorite Linux Distributions are [Vanilla Arch](https://archlinux.org/) and [ArcoLinux](https://arcolinux.com/).* 
+*⚡Fun fact: I have experimented with more than 98 Linux distros till now. 😎 My favorite Linux Distributions are [Vanilla Arch](https://archlinux.org/) and [EndeavourOS](https://endeavouros.com/).* 
 
 However, after all of this, I came to a realization, and you can take a note from my experience as well.
 > Use whatever you like, any Operating System you like, any Linux distro you like which also works perfectly for you. Avoid wasting time in unnecessary continuous distro hopping. Distro war has become a common phenomenon and that is basically destroying the original purpose of the Linux OS.
 
-I forgot to mention that I also love **Windows 11** so much, and currently Windows 11 is my only OS on both my workstation and laptop *(with [WSL](https://docs.microsoft.com/en-us/windows/wsl/) obviously!)*. 😊
-
-I also like to teach others about programming and technical stuff. I have two YouTube Brand channels. [In one channel, I publish English content](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q); [in the other channel, I publish Bengali content](https://www.youtube.com/c/InnovationWithIphim).
+I like to teach others about programming and technical stuff. I have two YouTube Brand channels. [In one channel, I publish English content](https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q); [in the other channel, I publish Bengali content](https://www.youtube.com/c/InnovationWithIphim).
 
 I also write articles frequently in various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platforms. 😊
 
