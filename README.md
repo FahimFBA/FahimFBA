@@ -89,11 +89,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/spacedriveapp/spacedrive/issues/307) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-2. 🗣 Commented on [#2](https://github.com/Gaspared/tetris/issues/2) in [Gaspared/tetris](https://github.com/Gaspared/tetris)
-3. 💪 Opened PR [#1](https://github.com/fhsinchy/fhsinchy/pull/1) in [fhsinchy/fhsinchy](https://github.com/fhsinchy/fhsinchy)
-4. ❗️ Opened issue [#6](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/6) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
-5. 🗣 Commented on [#35](https://github.com/vinceliuice/ChromeOS-kde/issues/35) in [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)
+1. 💪 Opened PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. ❗️ Opened issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+3. ❗️ Opened issue [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+4. 🗣 Commented on [#307](https://github.com/spacedriveapp/spacedrive/issues/307) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+5. 🗣 Commented on [#2](https://github.com/Gaspared/tetris/issues/2) in [Gaspared/tetris](https://github.com/Gaspared/tetris)
 <!--END_SECTION:activity-->
 
 
