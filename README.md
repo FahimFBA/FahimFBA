@@ -89,11 +89,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-2. 💪 Opened PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-3. ❗️ Opened issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-4. ❗️ Opened issue [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. 🗣 Commented on [#307](https://github.com/spacedriveapp/spacedrive/issues/307) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+1. 💪 Opened PR [#9](https://github.com/Susmita-Dey/Moody/pull/9) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+2. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+3. 💪 Opened PR [#8](https://github.com/Susmita-Dey/Moody/pull/8) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+4. ❗️ Opened issue [#7](https://github.com/Susmita-Dey/Moody/issues/7) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+5. ❗️ Opened issue [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
 <!--END_SECTION:activity-->
 
 
