@@ -89,11 +89,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/EddieHubCommunity/EddieHubLive/issues/37) in [EddieHubCommunity/EddieHubLive](https://github.com/EddieHubCommunity/EddieHubLive)
-2. ❗️ Opened issue [#53](https://github.com/keshavgbpecdelhi/Web-Development/issues/53) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
-3. ❗️ Opened issue [#52](https://github.com/keshavgbpecdelhi/Web-Development/issues/52) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
-4. 💪 Opened PR [#9](https://github.com/Susmita-Dey/Moody/pull/9) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-5. 🗣 Commented on [#6](https://github.com/Susmita-Dey/Moody/issues/6) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
+1. ❗️ Opened issue [#4340](https://github.com/EddieHubCommunity/support/issues/4340) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#37](https://github.com/EddieHubCommunity/EddieHubLive/issues/37) in [EddieHubCommunity/EddieHubLive](https://github.com/EddieHubCommunity/EddieHubLive)
+3. ❗️ Opened issue [#53](https://github.com/keshavgbpecdelhi/Web-Development/issues/53) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
+4. ❗️ Opened issue [#52](https://github.com/keshavgbpecdelhi/Web-Development/issues/52) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
+5. 💪 Opened PR [#9](https://github.com/Susmita-Dey/Moody/pull/9) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
 <!--END_SECTION:activity-->
 
 
