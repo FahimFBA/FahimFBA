@@ -50,6 +50,8 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="/img/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [How to Automount a Storage Partition on Startup in Linux](https://fahimbinamin.hashnode.dev//how-to-automount-a-storage-partition-on-startup-in-linux)
+- [Python - Print Calendar (Using 3 Lines of Codes)](https://fahimbinamin.hashnode.dev//python-print-calendar-using-3-lines-of-codes)
 - [How to Get Clear Audio in Audacity](https://fahimbinamin.hashnode.dev//how-to-get-clear-audio-in-audacity)
 - [Make your Linux OS ready for GitHub, GitLab & BitBucket altogether](https://fahimbinamin.hashnode.dev//make-your-linux-os-ready-for-github-gitlab-and-bitbucket-altogether)
 <!-- HASHNODE_BLOG:END -->
