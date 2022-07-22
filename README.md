@@ -30,8 +30,8 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 **Blog**: [blog.fahimbinamin.com](https://blog.fahimbinamin.com) <br>
 **Website**: [fahimbinamin.com](https://fahimbinamin.com) <br>
-**Highlights**: [highlights.fahimbinamin.com/](https://highlights.fahimbinamin.com/) <br>
-**Memory**: [memory.fahimbinamin.com/](https://memory.fahimbinamin.com/) <br>
+**Highlights**: [highlights.fahimbinamin.com](https://highlights.fahimbinamin.com/) <br>
+**Memory**: [memory.fahimbinamin.com](https://memory.fahimbinamin.com/) <br>
 
 </div>
 
