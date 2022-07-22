@@ -49,7 +49,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 
 
-## <a href="https://dev.to/FBA"><img src="/img/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to 
+## <a href="https://dev.to/FBA"><img src="/img/dev-black.png" title="DEV" alt="DEV" width="20"/></a> Recent Articles on DEV.to 
  <!-- DEVTO-BLOG-LIST:START -->
 - [The 21 Most Popular Coding Challenge Websites](https://dev.to/fahimfba/the-21-most-popular-coding-challenge-websites-phm)
 - [Some GoogleDrive Shortcuts That Might Help You!](https://dev.to/fahimfba/some-googledrive-shortcuts-that-might-help-you-m5i)
