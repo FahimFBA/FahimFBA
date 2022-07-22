@@ -24,6 +24,17 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 </div>
 
+<h2 align="center">Want more?</h2>
+
+<div align="center">
+
+**Blog**: [blog.fahimbinamin.com](blog.fahimbinamin.com) <br>
+**Website**: [fahimbinamin.com](fahimbinamin.com) <br>
+**Highlights**: [https://highlights.fahimbinamin.com/](https://highlights.fahimbinamin.com/) <br>
+**Memory**: [https://memory.fahimbinamin.com/](https://memory.fahimbinamin.com/) <br>
+
+</div>
+
 
 ## <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="/img/fcc_primary_small.jpg" title="freeCodeCamp" alt="freeCodeCamp" width="30"/></a> Recent Articles on freeCodeCamp
 
