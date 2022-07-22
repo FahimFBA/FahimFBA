@@ -58,7 +58,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 - [New Version of Git 🥳](https://dev.to/fahimfba/new-version-of-git-1fic)
 <!-- DEVTO-BLOG-LIST:END -->
 
-## <a href="https://fahimbinamin.hashnode.dev/"><img src="/img/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Articles on Hashnode
+## <a href="https://fahimbinamin.hashnode.dev/"><img src="/img/hashnode.png" title="Hashnode" alt="Hashnode blog" width="20"/></a> Recent Articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
 - [How to Automount a Storage Partition on Startup in Linux](https://fahimbinamin.hashnode.dev//how-to-automount-a-storage-partition-on-startup-in-linux)
