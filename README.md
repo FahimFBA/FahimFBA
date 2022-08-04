@@ -102,11 +102,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/FahimFBA/FahimFBA/issues/9) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-2. 🗣 Commented on [#9](https://github.com/FahimFBA/FahimFBA/issues/9) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-3. 💪 Opened PR [#54](https://github.com/keshavgbpecdelhi/Web-Development/pull/54) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
-4. 🗣 Commented on [#1](https://github.com/chiriacandrei25/The-Bible-of-Algorithms/issues/1) in [chiriacandrei25/The-Bible-of-Algorithms](https://github.com/chiriacandrei25/The-Bible-of-Algorithms)
-5. 💪 Opened PR [#5](https://github.com/chiriacandrei25/The-Bible-of-Algorithms/pull/5) in [chiriacandrei25/The-Bible-of-Algorithms](https://github.com/chiriacandrei25/The-Bible-of-Algorithms)
+1. ❗️ Opened issue [#1](https://github.com/TawsifTorabi/UCAMextended/issues/1) in [TawsifTorabi/UCAMextended](https://github.com/TawsifTorabi/UCAMextended)
+2. ❗️ Closed issue [#9](https://github.com/FahimFBA/FahimFBA/issues/9) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+3. 🗣 Commented on [#9](https://github.com/FahimFBA/FahimFBA/issues/9) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+4. 💪 Opened PR [#54](https://github.com/keshavgbpecdelhi/Web-Development/pull/54) in [keshavgbpecdelhi/Web-Development](https://github.com/keshavgbpecdelhi/Web-Development)
+5. 🗣 Commented on [#1](https://github.com/chiriacandrei25/The-Bible-of-Algorithms/issues/1) in [chiriacandrei25/The-Bible-of-Algorithms](https://github.com/chiriacandrei25/The-Bible-of-Algorithms)
 <!--END_SECTION:activity-->
 
 
