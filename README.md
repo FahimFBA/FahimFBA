@@ -102,11 +102,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/dracula/gtk/pull/210) in [dracula/gtk](https://github.com/dracula/gtk)
-2. 🗣 Commented on [#185](https://github.com/dracula/gtk/issues/185) in [dracula/gtk](https://github.com/dracula/gtk)
-3. 💪 Opened PR [#820](https://github.com/0xAX/linux-insides/pull/820) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
-4. ❗️ Opened issue [#1](https://github.com/TawsifTorabi/UCAMextended/issues/1) in [TawsifTorabi/UCAMextended](https://github.com/TawsifTorabi/UCAMextended)
-5. ❗️ Closed issue [#9](https://github.com/FahimFBA/FahimFBA/issues/9) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+1. ❗️ Opened issue [#19885](https://github.com/microsoft/PowerToys/issues/19885) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+2. 💪 Opened PR [#210](https://github.com/dracula/gtk/pull/210) in [dracula/gtk](https://github.com/dracula/gtk)
+3. 🗣 Commented on [#185](https://github.com/dracula/gtk/issues/185) in [dracula/gtk](https://github.com/dracula/gtk)
+4. 💪 Opened PR [#820](https://github.com/0xAX/linux-insides/pull/820) in [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+5. ❗️ Opened issue [#1](https://github.com/TawsifTorabi/UCAMextended/issues/1) in [TawsifTorabi/UCAMextended](https://github.com/TawsifTorabi/UCAMextended)
 <!--END_SECTION:activity-->
 
 
