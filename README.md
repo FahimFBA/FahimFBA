@@ -73,11 +73,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Beecrowd 1000 &lpar;Hello World!&rpar; Problem Solution in Java | URI Online Judge](https://www.youtube.com/watch?v=SCsuoNtj6Ik)
 - [How To Disable Search Highlights On Windows 11](https://www.youtube.com/watch?v=0cpZK92OnNg)
 - [Assignment Operator Vs. Comparison Operator Using The Equal Sign &lpar;=&rpar;](https://www.youtube.com/watch?v=snruVG3deGk)
 - [How to handle errors in java without using the throwing exceptions by finding the largest values.](https://www.youtube.com/watch?v=-JNa1p3t9n8)
 - [The 21 Most Popular Coding Challenge Websites](https://www.youtube.com/watch?v=45wrQ-RAefI)
-- [How To Customize Your GitHub Profile To Stand Out Among Others 👌](https://www.youtube.com/watch?v=nT_-L32blOs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
