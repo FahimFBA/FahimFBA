@@ -102,11 +102,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#257](https://github.com/dev-protocol/community/issues/257) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. ❗️ Opened issue [#99](https://github.com/AccessibleForAll/Support/issues/99) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-3. 🗣 Commented on [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-4. ❗️ Opened issue [#19885](https://github.com/microsoft/PowerToys/issues/19885) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-5. 💪 Opened PR [#210](https://github.com/dracula/gtk/pull/210) in [dracula/gtk](https://github.com/dracula/gtk)
+1. ❗️ Closed issue [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+2. 🗣 Commented on [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+3. ❗️ Closed issue [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+4. 🗣 Commented on [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+5. ❗️ Opened issue [#257](https://github.com/dev-protocol/community/issues/257) in [dev-protocol/community](https://github.com/dev-protocol/community)
 <!--END_SECTION:activity-->
 
 
