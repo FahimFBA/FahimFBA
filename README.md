@@ -102,11 +102,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-2. 🗣 Commented on [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-3. ❗️ Closed issue [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-4. 🗣 Commented on [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-5. ❗️ Opened issue [#257](https://github.com/dev-protocol/community/issues/257) in [dev-protocol/community](https://github.com/dev-protocol/community)
+1. 💪 Opened PR [#1520](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1520) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Closed issue [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+3. 🗣 Commented on [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+4. ❗️ Closed issue [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+5. 🗣 Commented on [#10](https://github.com/FahimFBA/FahimFBA/issues/10) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
 <!--END_SECTION:activity-->
 
 
