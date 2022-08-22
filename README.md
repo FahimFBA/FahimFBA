@@ -99,16 +99,6 @@ I also write articles frequently in various well-known platforms. Among those, [
 </div>
 
 
-## <a href="https://github.com/FahimFBA"><img src="/img/github.png" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/Pradumnasaraf/Wish-Eddie/pull/83) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
-2. ❗️ Opened issue [#68](https://github.com/Pradumnasaraf/Wish-Eddie/issues/68) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
-3. ❗️ Opened issue [#67](https://github.com/Pradumnasaraf/Wish-Eddie/issues/67) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
-4. 💪 Opened PR [#1520](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1520) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#11](https://github.com/FahimFBA/FahimFBA/issues/11) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
-<!--END_SECTION:activity-->
-
 
 
 
