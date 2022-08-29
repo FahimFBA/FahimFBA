@@ -73,11 +73,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Maximum and minimum of an array using minimum number of comparisons using Java &lpar;GFG&rpar;](https://www.youtube.com/watch?v=detxvnkbYhY)
 - [Beecrowd 1002 &lpar;Area of a Circle&rpar; Problem Solution in Java | URI Online Judge](https://www.youtube.com/watch?v=8z44Z2jR8go)
 - [Beecrowd 1001 &lpar;Extremely Basic&rpar; Problem Solution in Java | URI Online Judge](https://www.youtube.com/watch?v=s8xnu3WF9x0)
 - [Beecrowd 1000 &lpar;Hello World!&rpar; Problem Solution in Java | URI Online Judge](https://www.youtube.com/watch?v=SCsuoNtj6Ik)
 - [How To Disable Search Highlights On Windows 11](https://www.youtube.com/watch?v=0cpZK92OnNg)
-- [Assignment Operator Vs. Comparison Operator Using The Equal Sign &lpar;=&rpar;](https://www.youtube.com/watch?v=snruVG3deGk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
