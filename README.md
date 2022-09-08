@@ -73,11 +73,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to Java | Printing &quot;Hello World&quot; | Lecture 1](https://www.youtube.com/watch?v=U__ljdoYDYY)
 - [HackerRank Java Stdin and Stdout II Solution Explained - Java](https://www.youtube.com/watch?v=RiCua2uc8xQ)
 - [HackerRank Java Stdin and Stdout I Solution Explained - Java](https://www.youtube.com/watch?v=cHPhFRL2nSg)
 - [HackerRank Welcome to Java Solution Explained - Java](https://www.youtube.com/watch?v=p90ohA18u00)
 - [Maximum and minimum of an array using minimum number of comparisons using Java &lpar;GFG&rpar;](https://www.youtube.com/watch?v=detxvnkbYhY)
-- [Beecrowd 1002 &lpar;Area of a Circle&rpar; Problem Solution in Java | URI Online Judge](https://www.youtube.com/watch?v=8z44Z2jR8go)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
