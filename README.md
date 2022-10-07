@@ -63,11 +63,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Remove Starting Text from PowerShell 7 &lpar;Windows 11/Windows10&rpar; 🪟](https://www.youtube.com/watch?v=hf8Ou4kVXtU)
 - [Learn HTML by Building a Cat Photo App - 3 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=5S5yskW2qdg)
 - [Learn HTML by Building a Cat Photo App - 2 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=76yXriZdJus)
 - [Print Statement of Java | Using println&lpar;&rpar; method | Lecture 2](https://www.youtube.com/watch?v=_jfnI7yyaPo)
 - [Learn HTML by Building a Cat Photo App - 1 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=wod2QfgN5yY)
-- [Introduction to Java | Printing &quot;Hello World&quot; | Lecture 1](https://www.youtube.com/watch?v=U__ljdoYDYY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
