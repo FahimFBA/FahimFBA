@@ -64,10 +64,10 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Remove Starting Text from PowerShell 7 &lpar;Windows 11/Windows10&rpar; 🪟](https://www.youtube.com/watch?v=hf8Ou4kVXtU)
-- [Learn HTML by Building a Cat Photo App - 3 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=5S5yskW2qdg)
-- [Learn HTML by Building a Cat Photo App - 2 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=76yXriZdJus)
 - [Print Statement of Java | Using println&lpar;&rpar; method | Lecture 2](https://www.youtube.com/watch?v=_jfnI7yyaPo)
-- [Learn HTML by Building a Cat Photo App - 1 &lpar;Documentation&rpar;](https://www.youtube.com/watch?v=wod2QfgN5yY)
+- [Introduction to Java | Printing &quot;Hello World&quot; | Lecture 1](https://www.youtube.com/watch?v=U__ljdoYDYY)
+- [HackerRank Java Stdin and Stdout II Solution Explained - Java](https://www.youtube.com/watch?v=RiCua2uc8xQ)
+- [HackerRank Java Stdin and Stdout I Solution Explained - Java](https://www.youtube.com/watch?v=cHPhFRL2nSg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
