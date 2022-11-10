@@ -29,12 +29,12 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="/img/fcc_primary_small.jpg" title="freeCodeCamp" alt="freeCodeCamp" width="30"/></a> Recent Articles on freeCodeCamp
 
 <!-- FREECODECAMP:START -->
+ - [How to Download Applications Fast Using Mirrors On Manjaro Linux](https://www.freecodecamp.org/news/how-to-download-application-fast-on-manjaro-linux/)
  - [How to Use the Print Function in Java](https://www.freecodecamp.org/news/how-does-print-work-in-java/)
  - [How to Enable and Disable Search Highlights on Windows 11](https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/)
  - [The Most Popular Coding Challenge Websites](https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/) 
  - [How to Backup Your Hashnode Articles to GitHub
 ](https://www.freecodecamp.org/news/how-to-backup-hashnode-articles-to-github/) 
- - [How to Fix Google Chrome Black Screen on Linux OS (Wayland)](https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/)
  <!-- FREECODECAMP:END -->
 
 
