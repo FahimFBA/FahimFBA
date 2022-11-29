@@ -78,11 +78,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
+- [Codeforces :  71A Way Too Long Words](https://www.youtube.com/watch?v=1bXkIKwfcKY)
 - [Codeforces :  4A Watermelon](https://www.youtube.com/watch?v=TSoMkBHCl3E)
 - [Method Overriding in Details - Codes in Java &lpar;Java OOP&rpar; - Bangla Playlist &lpar;Episode 35&rpar;](https://www.youtube.com/watch?v=3TgQjA3X978)
 - [FizzBuzz Problem - FAANG এ বহুল আলোচিত প্রশ্ন - সম্পূর্ণ ব্যাখ্যা এবং কোড সহ](https://www.youtube.com/watch?v=WeNVzw0fP5k)
 - [Codeforces : ICPC Assiut University Community &lpar;A. Summation&rpar;](https://www.youtube.com/watch?v=0l3UXuzzOs4)
-- [Trial Class for Structured Programming Language Theory + Lab Course &lpar;Using C Programming Language&rpar;](https://www.youtube.com/watch?v=npAW50Gs5Js)
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:END -->
 	
 </div>
