@@ -62,11 +62,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How To Get Autocomplete Suggestions In Arduino IDE](https://www.youtube.com/watch?v=Ru4d4eXp_hs)
 - [How To Swap Two Numbers Using A Temporary Variable](https://www.youtube.com/watch?v=JLT-ad_Y5Hk)
 - [How To Install Other Operating System &lpar;Linux&rpar; On Your Windows PC - Everything You Need To Know](https://www.youtube.com/watch?v=IYiV8RpRNic)
 - [16 - Core CPU, 32 GB RAM and 128GB Storage! 😲 FOR FREE! 🥳 - GitHub Codespaces](https://www.youtube.com/watch?v=JTJj1oC17dc)
 - [How An Infinite For Loop Works in C/C++/Other Programming Languages 😩](https://www.youtube.com/watch?v=lILFZy4RQq4)
-- [How To Print A Multiplication Table 🐺](https://www.youtube.com/watch?v=Lm4gS9xLd9I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
