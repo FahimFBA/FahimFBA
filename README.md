@@ -62,11 +62,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How To Implement Circuits With Resistors, Diode and Power Source || Draw I-V Curve In NI Multisim](https://www.youtube.com/watch?v=9kIZ64iC8qA)
 - [How To Implement Circuits With Resistors and Power Source And Draw I-V Curve In NI Multisim](https://www.youtube.com/watch?v=rzcBPphK8fo)
 - [How To Create An ASCII Calculator Within A Few Seconds!](https://www.youtube.com/watch?v=Sppkfb_HLU0)
 - [How To Find The Size Of Different Data Types in C](https://www.youtube.com/watch?v=MgnGJuG4KwY)
 - [How To Do Any Kind Of Arithmetic Operations &lpar;Add/Subtract/Multiply/Division/Remainder&rpar;](https://www.youtube.com/watch?v=cjNXZS9lfAY)
-- [How To Convert Feet/Foot to Meter](https://www.youtube.com/watch?v=MZx20mmXBys)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
