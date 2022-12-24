@@ -4,7 +4,7 @@
 
 # Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
 
-It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first and the only student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}. I am also working at [draft.dev](https://draft.dev/) as a technical content writer.
+It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first and the only student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}.
 
 Basically I like to work with Python, Java, C, C++, Markdown and so on. You can check my **blog site** [here](https://blog.fahimbinamin.com/). My preferable operarting system is Linux and Windows. 
 *⚡Fun fact: I have experimented with more than 98 Linux distros till now. 😎 My favorite Linux Distributions are [Vanilla Arch](https://archlinux.org/) and [fedora](https://getfedora.org/).* 
