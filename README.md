@@ -63,10 +63,10 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How To Find The Area Of A Circle || What is #define in C](https://www.youtube.com/watch?v=l5jqIem2ws8)
+- [How To Implement Half Wave Rectifier Circuit With Capacitor In Multisim](https://www.youtube.com/watch?v=sHz5iQ1wScc)
 - [How To Implement Half Wave Rectifier Circuit In Multisim - Positive and Negative Half Cycle Output](https://www.youtube.com/watch?v=ZKDKx7vJaa4)
 - [How To Implement Circuits With Resistors, Diode and Power Source || Draw I-V Curve In NI Multisim](https://www.youtube.com/watch?v=9kIZ64iC8qA)
 - [How To Implement Circuits With Resistors and Power Source And Draw I-V Curve In NI Multisim](https://www.youtube.com/watch?v=rzcBPphK8fo)
-- [How To Create An ASCII Calculator Within A Few Seconds!](https://www.youtube.com/watch?v=Sppkfb_HLU0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
