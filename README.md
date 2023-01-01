@@ -74,7 +74,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 <div align="left">
 	
-## <a href="https://www.youtube.com/c/InnovationWithIphim/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali channel" alt="Bengali channel" width="30"/> </a>Recent Videos on YouTube (Bengali Brand Channel)
+## <a href="https://www.youtube.com/@FahimBinAminBengali/"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali channel" alt="Bengali channel" width="30"/> </a>Recent Videos on YouTube (Bengali Brand Channel)
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
