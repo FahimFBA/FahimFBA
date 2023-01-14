@@ -78,7 +78,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
-- [All About C++ In Bangla &lpar;E - 0&rpar;: Introduction to the Playlist](https://www.youtube.com/watch?v=ArBau-NbYo4)
+- [All About C++ In Bangla &lpar;Episode - 0&rpar;: Introduction to the Playlist](https://www.youtube.com/watch?v=ArBau-NbYo4)
 - [Electronics Lab Project - Multipurpose Smart Truck &lpar;Team Terminator&rpar;](https://www.youtube.com/watch?v=jxQKOJerdgs)
 - [Codeforces :  71A Way Too Long Words](https://www.youtube.com/watch?v=1bXkIKwfcKY)
 - [Codeforces :  4A Watermelon](https://www.youtube.com/watch?v=TSoMkBHCl3E)
