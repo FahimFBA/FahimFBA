@@ -78,11 +78,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
-- [All About C++ In Bangla &lpar;Episode - 1&rpar;: Hello World | How C++ Works - Start writing code in C++](https://www.youtube.com/watch?v=doT-FjxPcbM)
-- [All About C++ In Bangla &lpar;Episode - 0&rpar;: Introduction to the Playlist](https://www.youtube.com/watch?v=ArBau-NbYo4)
+- [Comments in C++ 🎯 &lpar;Episode - 2&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=_tNqJNpTX0o)
+- [Hello World | How C++ Works - Start writing code in C++ 🎯 &lpar;Episode - 1&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=doT-FjxPcbM)
+- [Introduction to the Playlist 🎯 &lpar;Episode - 0&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=ArBau-NbYo4)
 - [Electronics Lab Project - Multipurpose Smart Truck &lpar;Team Terminator&rpar;](https://www.youtube.com/watch?v=jxQKOJerdgs)
 - [Codeforces :  71A Way Too Long Words](https://www.youtube.com/watch?v=1bXkIKwfcKY)
-- [Codeforces :  4A Watermelon](https://www.youtube.com/watch?v=TSoMkBHCl3E)
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:END -->
 	
 </div>
