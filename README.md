@@ -78,11 +78,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 	
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:START -->
+- [Operators 🎯&lpar;Episode - 6&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=-FxyvY0Ir-Y)
 - [Data Types 🎯 &lpar;Episode - 5&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=xVCPqHRm5Kc)
 - [Variables 🎯 &lpar;Episode - 4&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=vNAP2zFmh6A)
 - [Run C++ Codes In Terminal 🎯 &lpar;Episode - 3&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=32c4WXDesqk)
 - [Comments in C++ 🎯 &lpar;Episode - 2&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=_tNqJNpTX0o)
-- [Hello World | How C++ Works - Start writing code in C++ 🎯 &lpar;Episode - 1&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=doT-FjxPcbM)
 <!-- YOUTUBE-VIDEOS-LIST-BENGALI:END -->
 	
 </div>
