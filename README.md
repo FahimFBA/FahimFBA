@@ -62,11 +62,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Comments in Java | Lecture 3](https://www.youtube.com/watch?v=ki1oVqJTgyA)
 - [JavaFX Complete GUI Project: Base Calculator](https://www.youtube.com/watch?v=KMpshYEIxFs)
 - [I was making small changes to my open source personal website, and alas!](https://www.youtube.com/watch?v=eLPncFhLv-8)
 - [How To Start With Contributing To Open Source And Create A GitHub Account; Also Know How To Delete⚠️](https://www.youtube.com/watch?v=5jalk4346a8)
 - [How To Configure Your Windows Terminal Like a PRO! Using Oh-My-Posh 👍](https://www.youtube.com/watch?v=wA4cumTtw8o)
-- [How To Print Array Elements In Order or Reversely By Using/Not Using Function](https://www.youtube.com/watch?v=pACJ2_bGaZ0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
