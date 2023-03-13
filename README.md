@@ -63,10 +63,10 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [I just removed one of my workflows from my GitHub Readme! 🙄](https://www.youtube.com/watch?v=eYS2xPNa85Y)
+- [What you should do just after installing a fresh Linux distro?](https://www.youtube.com/watch?v=sFqJ2yEo3NY)
 - [Variables in Java #5 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=3qyNVMTvseo)
 - [#shorts RTX ON 🔥 ZOTAC RTX 3050 GDDR6 8GB Twin Edge 😎](https://www.youtube.com/watch?v=-yxok0UZsd4)
 - [Print Functionality in Java #4 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=MCKBTOdzN_s)
-- [Comments in Java #3 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=ki1oVqJTgyA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
