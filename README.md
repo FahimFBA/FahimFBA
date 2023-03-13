@@ -59,7 +59,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 <div align="left">
 	
-## <a href="https://www.youtube.com/channel/UCG97GCUifMS2Vm28tgXQi0Q/featured"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube (English Brand Channel)
+## <a href="https://www.youtube.com/@FahimAmin"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Variables in Java #5 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=3qyNVMTvseo)
