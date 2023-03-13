@@ -62,11 +62,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/@FahimAmin"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I just removed one of my workflows from my GitHub Readme! 🙄](https://www.youtube.com/watch?v=eYS2xPNa85Y)
 - [Variables in Java #5 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=3qyNVMTvseo)
 - [#shorts RTX ON 🔥 ZOTAC RTX 3050 GDDR6 8GB Twin Edge 😎](https://www.youtube.com/watch?v=-yxok0UZsd4)
 - [Print Functionality in Java #4 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=MCKBTOdzN_s)
 - [Comments in Java #3 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=ki1oVqJTgyA)
-- [JavaFX Complete GUI Project: Base Calculator](https://www.youtube.com/watch?v=KMpshYEIxFs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
