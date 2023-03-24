@@ -53,11 +53,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube channel" alt="YouTube channel" width="30"/> </a>Recent Videos on YouTube
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [2 Types of Data Types in Java #7 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=OGpY0iZ4pvA)
-- [Variables &lpar;EXTENDED&rpar; in Java #6 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=tqkyOGQdXss)
+- [Primitive Data Types in Java | Everything of Java - 8](https://www.youtube.com/watch?v=xjkJvjuJ7ig)
+- [2 Types of Data Types in Java | Everything of Java - 7](https://www.youtube.com/watch?v=OGpY0iZ4pvA)
+- [Variables &lpar;EXTENDED&rpar; in Java | Everything of Java - 6](https://www.youtube.com/watch?v=tqkyOGQdXss)
 - [What you should do just after installing a fresh Linux distro?](https://www.youtube.com/watch?v=sFqJ2yEo3NY)
 - [I just removed one of my workflows from my GitHub Readme! 🙄](https://www.youtube.com/watch?v=eYS2xPNa85Y)
-- [Variables in Java #5 &lpar;Everything of Java&rpar;](https://www.youtube.com/watch?v=3qyNVMTvseo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
