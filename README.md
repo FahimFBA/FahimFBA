@@ -41,6 +41,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://fahimbinamin.hashnode.dev/"><img src="/img/hashnode.png" title="Hashnode" alt="Hashnode blog" width="20"/></a> Recent Articles on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [How to Automount a Storage Partition on Startup in Linux](https://fahimbinamin.hashnode.dev//how-to-automount-a-storage-partition-on-startup-in-linux)
 - [How To Print "Hello World" Using C++ Language](https://fahimbinamin.hashnode.dev//how-to-print-hello-world-using-cpp-language)
 - [Python - Print Calendar (Using 3 Lines of Codes)](https://fahimbinamin.hashnode.dev//python-print-calendar-using-3-lines-of-codes)
 - [How to Get Clear Audio in Audacity](https://fahimbinamin.hashnode.dev//how-to-get-clear-audio-in-audacity)
