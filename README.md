@@ -53,11 +53,11 @@ I also write articles frequently in various well-known platforms. Among those, [
 ## <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube channel" alt="YouTube channel" width="30"/> </a>Recent Videos on YouTube
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learn Arrays | Java Tutorial #11](https://www.youtube.com/watch?v=McJGuvBKy0c)
 - [Mastering Escape Sequences in Java: Your Ultimate Guide | Java Tutorial #10](https://www.youtube.com/watch?v=QqtYTnNxkoM)
 - [Everything You Need to Know About Strings in Java Programming | Java Tutorial #9](https://www.youtube.com/watch?v=_qdFFfDT6vQ)
 - [Mastering Java Primitive Data Types: Comprehensive Guide | Java Tutorial #8](https://www.youtube.com/watch?v=xjkJvjuJ7ig)
 - [Java Data Types Uncovered: Primitive &amp; Reference Types Explained | Java Tutorial #7](https://www.youtube.com/watch?v=OGpY0iZ4pvA)
-- [Java Variables Deep Dive: Advanced Techniques &amp; Tips | Java Tutorial #6](https://www.youtube.com/watch?v=tqkyOGQdXss)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
