@@ -1,4 +1,4 @@
-name: YouTube Videos
+name: BN YouTube Videos
 on:
   schedule:
     # Runs every hour
