@@ -50,7 +50,7 @@ I also write articles frequently in various well-known platforms. Among those, [
 
 <div align="left">
 	
-## <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube channel" alt="YouTube channel" width="30"/> </a>Recent Videos on YouTube
+## <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Recent Videos on YouTube (International Channel)
 	
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [University Project - LMS Desktop &lpar;Advanced Object Oriented Programming Course&rpar; using JavaFX, MySQL](https://www.youtube.com/watch?v=S84QZHBzVUI)
@@ -59,6 +59,16 @@ I also write articles frequently in various well-known platforms. Among those, [
 - [Everything You Need to Know About Strings in Java Programming | Java Tutorial #9](https://www.youtube.com/watch?v=_qdFFfDT6vQ)
 - [Mastering Java Primitive Data Types: Comprehensive Guide | Java Tutorial #8](https://www.youtube.com/watch?v=xjkJvjuJ7ig)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+	
+</div>
+
+<div align="left">
+	
+## <a href="https://www.youtube.com/@FahimBinAminBengali?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali YouTube channel" alt="Bengali YouTube channel" width="30"/> </a>Recent Videos on YouTube (For Bengali people)
+	
+<!-- BN-YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- BN-YOUTUBE-VIDEOS-LIST:END -->
 	
 </div>
 
