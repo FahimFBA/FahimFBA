@@ -62,20 +62,6 @@ I also write articles frequently in various well-known platforms. Among those, [
 	
 </div>
 
-<div align="left">
-	
-## <a href="https://www.youtube.com/@FahimBinAminBengali?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali YouTube channel" alt="Bengali YouTube channel" width="30"/> </a>Recent Videos on YouTube (For Bengali people)
-	
-<!-- BN-YOUTUBE-VIDEOS-LIST:START -->
-- [LeetCode: 217. Contains Duplicate &lpar;সম্পূর্ণ বাংলায়&rpar; | Play LeetCode - 1](https://www.youtube.com/watch?v=wjjjPYK-X2A)
-- [User Input 🎯&lpar;Episode - 8&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=1KFrjvw_EH8)
-- [String 🎯&lpar;Episode - 7&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=aTKqp5tYE2M)
-- [Operators 🎯&lpar;Episode - 6&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=-FxyvY0Ir-Y)
-- [Data Types 🎯 &lpar;Episode - 5&rpar;: All About C++ In Bangla](https://www.youtube.com/watch?v=xVCPqHRm5Kc)
-<!-- BN-YOUTUBE-VIDEOS-LIST:END -->
-	
-</div>
-
 
 ## Buy me a coffee!
 
