@@ -4,11 +4,13 @@
 
 Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
+#### English (International) YouTube Channel and GitHub
+
    <p align="left">
       <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers (International Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@FahimAmin">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views (International Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/FahimFBA?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FahimFBA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
@@ -16,8 +18,18 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
    </p>
 
 ---
+#### Bengali YouTube Channel
 
-### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos
+<p>
+      <a href="https://www.youtube.com/@FahimBinAminBengali?sub_confirmation=1">
+         <img alt="youtube subscribers (Bengali Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@FahimBinAminBengali">
+         <img alt="youtube views (Bengali Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+</p>
+
+---
+
+### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos (English/International)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![What's happening to my channel... 🥺](https://ytcards.demolab.com/?id=vM9FukMSm_4&title=What%27s+happening+to+my+channel...+%F0%9F%A5%BA&lang=en&timestamp=1686238595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1096 "What's happening to my channel... 🥺")](https://www.youtube.com/watch?v=vM9FukMSm_4)
