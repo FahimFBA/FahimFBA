@@ -4,7 +4,6 @@
 
 Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
-#### English (International) YouTube Channel and GitHub
 
    <p align="left">
       <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1">
@@ -18,18 +17,8 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
    </p>
 
 ---
-#### Bengali YouTube Channel
 
-<p>
-      <a href="https://www.youtube.com/@FahimBinAminBengali?sub_confirmation=1">
-         <img alt="youtube subscribers (Bengali Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@FahimBinAminBengali">
-         <img alt="youtube views (Bengali Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-</p>
-
----
-
-### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos (English/International)
+### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![MySQL #2 - Select A Database](https://ytcards.demolab.com/?id=7O76VPsyTyo&title=MySQL+%232+-+Select+A+Database&lang=en&timestamp=1686067203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=134 "MySQL #2 - Select A Database")](https://www.youtube.com/watch?v=7O76VPsyTyo)
