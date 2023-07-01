@@ -58,7 +58,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 <hr>
 
-### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos (International Channel)
+### <a href="https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali YouTube channel" alt="Bengali YouTube channel" width="30"/> </a>Latest YouTube videos (Bengali Channel)
 
 <!-- BEGIN YOUTUBE-CARDS-BN -->
 [![০৮. Learn MySQL (বাংলা ভাষায়) | Delete A Table](https://ytcards.demolab.com/?id=xvcqy42B9Ps&title=%E0%A7%A6%E0%A7%AE.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Delete+A+Table&lang=en&timestamp=1687874443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=92 "০৮. Learn MySQL (বাংলা ভাষায়) | Delete A Table")](https://www.youtube.com/watch?v=xvcqy42B9Ps)
