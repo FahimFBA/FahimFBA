@@ -69,6 +69,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 [![০৩. Learn MySQL (বাংলা ভাষায়) | Delete A Database](https://ytcards.demolab.com/?id=9cFhGPd8bD8&title=%E0%A7%A6%E0%A7%A9.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Delete+A+Database&lang=en&timestamp=1686757102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=122 "০৩. Learn MySQL (বাংলা ভাষায়) | Delete A Database")](https://www.youtube.com/watch?v=9cFhGPd8bD8)
 <!-- END YOUTUBE-CARDS-BN -->
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1)
 ## Buy me a coffee!
 
 <a href="https://www.buymeacoffee.com/fahimbinamin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
