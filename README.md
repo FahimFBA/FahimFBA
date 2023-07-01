@@ -14,7 +14,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
    </p>
 
 
-## 📹 International (English) YouTube Channel
+## 📹 YouTube Channel
 
    <p align="left">
       <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1">
@@ -23,15 +23,6 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
          <img alt="youtube views (International Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
-
-## 📹 Native (Bengali) YouTube Channel
-
-   <p align="left">
-      <a href="https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1">
-         <img alt="youtube subscribers (Bengali Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@ProgrammingSimplifiedBD">
-         <img alt="youtube views (Bengali Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-   </p>
 
 
 ---
@@ -43,7 +34,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 * [Print Methods in Java – How to Print to the Terminal](https://www.freecodecamp.org/news/print-methods-in-java/)
 ---
 
-### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos (International Channel)
+### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How To Create Amazing Websites In SECONDS! (Using Docsify)](https://ytcards.demolab.com/?id=u20KDe5oEaU&title=How+To+Create+Amazing+Websites+In+SECONDS%21+%28Using+Docsify%29&lang=en&timestamp=1688067952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=697 "How To Create Amazing Websites In SECONDS! (Using Docsify)")](https://www.youtube.com/watch?v=u20KDe5oEaU)
@@ -58,18 +49,6 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 <hr>
 
-### <a href="https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali YouTube channel" alt="Bengali YouTube channel" width="30"/> </a>Latest YouTube videos (Bengali Channel)
-
-<!-- BEGIN YOUTUBE-CARDS-BN -->
-[![০৮. Learn MySQL (বাংলা ভাষায়) | Delete A Table](https://ytcards.demolab.com/?id=xvcqy42B9Ps&title=%E0%A7%A6%E0%A7%AE.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Delete+A+Table&lang=en&timestamp=1687874443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=92 "০৮. Learn MySQL (বাংলা ভাষায়) | Delete A Table")](https://www.youtube.com/watch?v=xvcqy42B9Ps)
-[![০৭. Learn MySQL (বাংলা ভাষায়) | Rename Table Name](https://ytcards.demolab.com/?id=8o3WkbdyvPI&title=%E0%A7%A6%E0%A7%AD.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Rename+Table+Name&lang=en&timestamp=1687787624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=267 "০৭. Learn MySQL (বাংলা ভাষায়) | Rename Table Name")](https://www.youtube.com/watch?v=8o3WkbdyvPI)
-[![০৬. Learn MySQL (বাংলা ভাষায়) | Search All Data From A Table](https://ytcards.demolab.com/?id=9XaEffVRIOA&title=%E0%A7%A6%E0%A7%AC.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Search+All+Data+From+A+Table&lang=en&timestamp=1687354828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=52 "০৬. Learn MySQL (বাংলা ভাষায়) | Search All Data From A Table")](https://www.youtube.com/watch?v=9XaEffVRIOA)
-[![০৫. Learn MySQL (বাংলা ভাষায়) | Create a Table](https://ytcards.demolab.com/?id=u_LsfrQuaSE&title=%E0%A7%A6%E0%A7%AB.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Create+a+Table&lang=en&timestamp=1687188612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=506 "০৫. Learn MySQL (বাংলা ভাষায়) | Create a Table")](https://www.youtube.com/watch?v=u_LsfrQuaSE)
-[![০৪. Learn MySQL (বাংলা ভাষায়) | Make a Database READ ONLY](https://ytcards.demolab.com/?id=0d5-EuLAL7c&title=%E0%A7%A6%E0%A7%AA.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Make+a+Database+READ+ONLY&lang=en&timestamp=1687093556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=320 "০৪. Learn MySQL (বাংলা ভাষায়) | Make a Database READ ONLY")](https://www.youtube.com/watch?v=0d5-EuLAL7c)
-[![০৩. Learn MySQL (বাংলা ভাষায়) | Delete A Database](https://ytcards.demolab.com/?id=9cFhGPd8bD8&title=%E0%A7%A6%E0%A7%A9.+Learn+MySQL+%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F%29+%7C+Delete+A+Database&lang=en&timestamp=1686757102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=122 "০৩. Learn MySQL (বাংলা ভাষায়) | Delete A Database")](https://www.youtube.com/watch?v=9cFhGPd8bD8)
-<!-- END YOUTUBE-CARDS-BN -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1)
 ## Buy me a coffee!
 
 <a href="https://www.buymeacoffee.com/fahimbinamin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
