@@ -14,13 +14,25 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
    </p>
 
 
-## 📹 YouTube Channel
+
+
+## 📹 YouTube Channel (International)
 
    <p align="left">
       <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1">
          <img alt="youtube subscribers (International Channel)" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@FahimAmin">
          <img alt="youtube views (International Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+   </p>
+
+
+## 📹 YouTube Channel (Bengali)
+
+   <p align="left">
+      <a href="https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1">
+         <img alt="youtube subscribers (Bengali Channel)" title="Subscribe to my Bengali YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@ProgrammingSimplifiedBD">
+         <img alt="youtube views (Bengali Channel)" title="Bengali YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEF4lxmpBKV2oYCSFH6ExIQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
 
