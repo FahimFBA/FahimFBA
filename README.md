@@ -46,7 +46,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 * [Print Methods in Java – How to Print to the Terminal](https://www.freecodecamp.org/news/print-methods-in-java/)
 ---
 
-### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube videos
+### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube Videos (International Channel)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How To Create Amazing Websites In SECONDS! (Using Docsify)](https://ytcards.demolab.com/?id=u20KDe5oEaU&title=How+To+Create+Amazing+Websites+In+SECONDS%21+%28Using+Docsify%29&lang=en&timestamp=1688131812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=697 "How To Create Amazing Websites In SECONDS! (Using Docsify)")](https://www.youtube.com/watch?v=u20KDe5oEaU)
@@ -58,6 +58,15 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@FahimAmin?sub_confirmation=1)
+
+<hr>
+
+### <a href="https://www.youtube.com/@ProgrammingSimplifiedBD?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="Bengali YouTube channel" alt="Bengali YouTube channel" width="30"/> </a>Latest YouTube Videos (Bengali Channel)
+
+<!-- BEGIN YOUTUBE-CARDS-BN -->
+
+<!-- END YOUTUBE-CARDS-BN -->
+
 
 <hr>
 
