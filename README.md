@@ -18,11 +18,11 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 ---
 ### <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="https://github.com/selenium-cucumber/selenium-cucumber-java/assets/64195132/1554283d-c054-47ef-bbf0-d31bf367dba7" title="freeCodeCamp Article" alt="freeCodeCamp News" width="35"/> </a>Latest freeCodeCamp Articles
+* [How to Add Stargazers and Forkers Cards to Your GitHub Repository](https://www.freecodecamp.org/news/how-to-add-stargzers-and-forkers-to-your-github-repository/)
 * [How to Install MySQL and MySQL Workbench on Windows](https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/)
 * [How to Make a Database Read-Only in MySQL](https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/)
 * [How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)](https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/)
 * [strcmp in C – How to Compare Strings in C](https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/)
-* [Print Methods in Java – How to Print to the Terminal](https://www.freecodecamp.org/news/print-methods-in-java/)
 ---
 
 ### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube Videos
