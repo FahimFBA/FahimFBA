@@ -18,11 +18,11 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 ---
 ### <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="https://github.com/selenium-cucumber/selenium-cucumber-java/assets/64195132/1554283d-c054-47ef-bbf0-d31bf367dba7" title="freeCodeCamp Article" alt="freeCodeCamp News" width="35"/> </a>Latest freeCodeCamp Articles
+* [Python Project – How to Convert Multiple Images into a Single PDF File](https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/)
 * [How to Add Stargazers and Forkers Cards to Your GitHub Repository](https://www.freecodecamp.org/news/how-to-add-stargzers-and-forkers-to-your-github-repository/)
 * [How to Install MySQL and MySQL Workbench on Windows](https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/)
 * [How to Make a Database Read-Only in MySQL](https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/)
 * [How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)](https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/)
-* [strcmp in C – How to Compare Strings in C](https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/)
 ---
 
 ### <a href="https://www.youtube.com/@FahimAmin?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English YouTube channel" alt="English YouTube channel" width="30"/> </a>Latest YouTube Videos
@@ -49,13 +49,13 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 <details>
  <summary><h3>👨‍💻 Fahim's Coding Journey</h3></summary>
 
-It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first and the only student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}.
+It's **Md. Fahim Bin Amin**, author [@freeCodeCamp](https://www.freecodecamp.org/news/author/fahimbinamin/), open-source contributor. I am also a contributor to [Microsoft](https://www.microsoft.com/en-us/) Research Investigation to OSS. Currently, I am working actively on the official [freeCodeCamp](https://www.freecodecamp.org/) Bengali team as a volunteer {🎉 I am the 3rd Bangladeshi and the first and the only student from my university, [United International University](https://www.uiu.ac.bd/), who got this opportunity to work with the official team of freeCodeCamp 😋}.
 
-Basically I like to work with Python, Java, C, C++, Markdown and so on. You can check my **blog site** [here](https://blog.fahimbinamin.com/).
+Basically, I like to work with Python, Java, C, C++, Markdown and so on. You can check my **blog site** [here](https://blog.fahimbinamin.com/).
 
 I like to teach others about programming and technical stuff. I have [a Brand YouTube channel](https://www.youtube.com/@FahimAmin) where I teach programming and technical stuff regularly.
 
-I also write articles frequently in various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platforms. 😊
+I also write articles frequently on various well-known platforms. Among those, [freeCodeCamp English](https://www.freecodecamp.org/news/author/fahimbinamin/), [freeCodeCamp Bengali](https://www.freecodecamp.org/bengali/news/author/fahimbinamin/), [Dev.to](https://dev.to/fahimfba) and [Hashnode](https://hashnode.com/@FahimFBA) are my most favourite platforms. 😊
 
 [website]: https://fahimbinamin.com/
 [youtube]: https://www.youtube.com/@FahimAmin
