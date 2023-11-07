@@ -16,6 +16,8 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
          <img alt="youtube views (International Channel)" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG97GCUifMS2Vm28tgXQi0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahim_FBA" target="blank"><img src="./assets/twitter-badge-29k.png" height="36" alt="Fahim_FBA"/></a></p>
+
 ---
 ### <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="https://github.com/selenium-cucumber/selenium-cucumber-java/assets/64195132/1554283d-c054-47ef-bbf0-d31bf367dba7" title="freeCodeCamp Article" alt="freeCodeCamp News" width="35"/> </a>Latest freeCodeCamp Articles
 * [The Best Data Structure For Storing Non-Duplicate Items In Python](https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/)
