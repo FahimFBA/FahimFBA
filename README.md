@@ -41,12 +41,6 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@FahimAmin?sub_confirmation=1)
 
-<hr>
-
-## Buy me a coffee!
-
-<a href="https://www.buymeacoffee.com/fahimbinamin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 #
 
 <details>
