@@ -21,3 +21,9 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 - [How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)](https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/)
 
 ---
+
+### <a href="https://www.kaggle.com/mdfahimbinamin"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle" alt="Kaggle" width="50" height="20"/> </a>Latest Kaggle Datasets
+
+![mdfahimbinamin](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{mdfahimbinamin})
+
+* [CNN - Hot Dog Vs Not Hot Dog](https://www.kaggle.com/code/mdfahimbinamin/cnn-hot-dog-vs-not-hot-dog)
