@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'FahimFBA' # Hashnode Username
-          BLOG_URL: '' # Blog URL
+          BLOG_URL: 'https://fahimbinamin.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
