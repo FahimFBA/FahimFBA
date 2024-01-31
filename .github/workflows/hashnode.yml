@@ -1,23 +1,23 @@
-name: "📚 Blog Updater"
+name: "📚 latest Blog"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */24 * * *' # Runs Every 24 Hours
+    - cron: "0 * * * *" # Runs every hour, on the hour
 
 jobs:
   update_blogs:
-    name: "Update Blogs"
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.2"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: 'FahimFBA' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          USERNAME: "FahimFBA" # Hashnode Username
+          COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://blog.fahimbinamin.com/"
         env:
