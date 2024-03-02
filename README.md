@@ -10,6 +10,7 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 ### <a href="https://www.freecodecamp.org/news/author/fahimbinamin/"><img src="https://github.com/selenium-cucumber/selenium-cucumber-java/assets/64195132/1554283d-c054-47ef-bbf0-d31bf367dba7" title="freeCodeCamp Article" alt="freeCodeCamp News" width="35"/> </a>Latest freeCodeCamp Articles
 
+- [How to Compress Files to ".gz" on the Windows Operating System](https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/)
 - [How to Download a Kaggle Dataset Directly to a Google Colab Notebook](https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/)
 - [How to Comment Your JavaScript Code](https://www.freecodecamp.org/news/comment-your-javascript-code/)
 - [How to Install Node.js on Ubuntu – Node Linux Installation Guide](https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/)
