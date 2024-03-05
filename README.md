@@ -31,3 +31,4 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 - [CNN - Hot Dog Vs Not Hot Dog](https://www.kaggle.com/code/mdfahimbinamin/cnn-hot-dog-vs-not-hot-dog)
 - [Skull Stripping Using ANTsPyNet](https://www.kaggle.com/code/mdfahimbinamin/skull-stripping-using-antspynet)
+- [FastSurfer QuickSegmentation](https://www.kaggle.com/code/mdfahimbinamin/fastsurfer-quicksegmentation)
