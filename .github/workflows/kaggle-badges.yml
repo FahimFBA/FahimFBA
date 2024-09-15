@@ -5,11 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: "17 11 * * *"
+    # You can change the cron expression to suit your needs
+    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
   workflow_dispatch:
 
 jobs:
-  create-bades:
+  create-badges:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,12 +23,15 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome@126.0.6478.63
+        run: npx puppeteer browsers install chrome@127.0.6533.88
 
       - name: Use Kaggle Badges Action
-        uses: spider-man-tm/kaggle-badges@v1.2.2
+        uses: spider-man-tm/kaggle-badges@v1.2.3
         with:
-          user_name: spidermandance
+          # ex. user_name: spidermandance
+          user_name: mdfahimbinamin
+          # example of using GitHub Secrets
+          # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
       - name: Commit and Push SVG files
         run: |
