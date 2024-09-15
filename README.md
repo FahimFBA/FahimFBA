@@ -6,6 +6,18 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahim_FBA" target="blank"><img src="https://img.shields.io/twitter/follow/:Fahim_FBA" height="26" alt="Fahim_FBA"/></a></p>
 
+---
+
+### Kaggle Status
+
+<div>
+  <a href="https://www.kaggle.com/mdfahimbinamin">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/mdfahimbinamin">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
+  </a>
+</div>
 
 ---
 
