@@ -10,6 +10,9 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 ### Kaggle Status
 
+
+![](./kaggle-plates/Competitions/white.svg)
+
 <div>
   <a href="https://www.kaggle.com/mdfahimbinamin">
     <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
