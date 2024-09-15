@@ -1,0 +1,38 @@
+name: Kaggle Badges
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+jobs:
+  create-bades:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome@126.0.6478.63
+
+      - name: Use Kaggle Badges Action
+        uses: spider-man-tm/kaggle-badges@v1.2.2
+        with:
+          user_name: spidermandance
+
+      - name: Commit and Push SVG files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./kaggle-badges/* ./kaggle-plates/*
+          git commit -m "Add generated SVG files" || echo "No changes to commit"
+          git push
