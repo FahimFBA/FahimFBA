@@ -6,6 +6,8 @@ Md. Fahim Bin Amin is a versatile and accomplished software engineer, educator, 
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahim_FBA" target="blank"><img src="https://img.shields.io/twitter/follow/:Fahim_FBA" height="26" alt="Fahim_FBA"/></a></p>
 
+<a href="https://trendshift.io/developers/1193" target="_blank"><img src="https://trendshift.io/api/badge/developers/1193" alt="FahimFBA | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ---
 
 ### Kaggle Status
